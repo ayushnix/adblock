@@ -1,2 +1,5 @@
+! Title: Annoyances List
+! Repo: https://github.com/ayushnix/adblock
+! License: https://unlicense.org/
 www.valueresearchonline.com##div[id*=vro_en_homepage_leaderboard]
 www.valueresearchonline.com##div[class*=vr-ad-box]
