@@ -1,0 +1,2 @@
+www.valueresearchonline.com##div[id*=vro_en_homepage_leaderboard]
+www.valueresearchonline.com##div[class*=vr-ad-box]
