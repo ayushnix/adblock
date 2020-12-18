@@ -2,6 +2,14 @@
 ! Repo: https://github.com/ayushnix/adblock
 ! License: https://unlicense.org/
 
+! Kuvera
+kuvera.in##.in-btn-google.btn
+kuvera.in##.in-btn-fb.btn
+kuvera.in##.seperator.col-md-1.hidden-xs.hidden-sm
+kuvera.in##div[class*=goldLarge]
+kuvera.in##div[class*=each1-teach1]
+||assets2.kuvera.in/production/atlantis/web/assets/img/health-insurance/common/disable-shield.svg$image
+
 ! ValueResearchOnline
 www.valueresearchonline.com###gooogle-spinner
 www.valueresearchonline.com###fb-spinner
