@@ -25,5 +25,8 @@ www.valueresearchonline.com##th.sorting.text-left:nth-of-type(3)
 www.valueresearchonline.com##th.sorting.text-left:nth-of-type(4)
 ||www.valueresearchonline.com/assets/images/rating-star-*.svg$image
 
+! marketplace.visualstudio.com
+marketplace.visualstudio.com###survey-container
+
 ! Others
 ruddra.com##.show
