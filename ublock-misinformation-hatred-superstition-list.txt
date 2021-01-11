@@ -1,5 +1,0 @@
-! Title: Misinformation, Hatred, and Superstition List
-! Repo: https://github.com/ayushnix/adblock
-! License: https://unlicense.org/
-
-||timesofindia.indiatimes.com

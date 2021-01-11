@@ -1,6 +1,7 @@
 ! Title: Annoyances List
 ! Repo: https://github.com/ayushnix/adblock
 ! License: https://unlicense.org/
+! Expires: 7 days
 
 ! Kuvera
 kuvera.in##.in-btn-google.btn
@@ -9,6 +10,18 @@ kuvera.in##.seperator.col-md-1.hidden-xs.hidden-sm
 kuvera.in##div[class*=goldLarge]
 kuvera.in##div[class*=each1-teach1]
 ||assets2.kuvera.in/production/atlantis/web/assets/img/health-insurance/common/disable-shield.svg$image
+
+! StackExchange
+stackexchange.com##.google-login
+stackexchange.com##.facebook-login
+stackoverflow.com##.google-login
+stackoverflow.com##.facebook-login
+serverfault.com##.google-login
+serverfault.com##.facebook-login
+superuser.com##.google-login
+superuser.com##.facebook-login
+askubuntu.com##.google-login
+askubuntu.com##.facebook-login
 
 ! ValueResearchOnline
 www.valueresearchonline.com###gooogle-spinner
