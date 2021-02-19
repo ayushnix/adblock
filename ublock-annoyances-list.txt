@@ -11,6 +11,10 @@ kuvera.in##div[class*=goldLarge]
 kuvera.in##div[class*=each1-teach1]
 ||assets2.kuvera.in/production/atlantis/web/assets/img/health-insurance/common/disable-shield.svg$image
 
+! LiveMint
+www.livemint.com##p:has( > strong:has-text(Also Read))
+www.livemint.com##div.moreNews
+
 ! StackExchange
 stackexchange.com##.google-login
 stackexchange.com##.facebook-login
