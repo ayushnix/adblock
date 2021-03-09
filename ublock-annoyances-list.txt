@@ -27,6 +27,9 @@ superuser.com##.facebook-login
 askubuntu.com##.google-login
 askubuntu.com##.facebook-login
 
+! The New York Times
+www.nytimes.com##div[id*=story-ad-]
+
 ! ValueResearchOnline
 www.valueresearchonline.com###gooogle-spinner
 www.valueresearchonline.com###fb-spinner
@@ -40,6 +43,8 @@ www.valueresearchonline.com##td.text-left:nth-of-type(3)
 www.valueresearchonline.com##td.text-left:nth-of-type(4)
 www.valueresearchonline.com##th.sorting.text-left:nth-of-type(3)
 www.valueresearchonline.com##th.sorting.text-left:nth-of-type(4)
+www.valueresearchonline.com##.vr-social-logins
+www.valueresearchonline.com##.section-divider-rule
 ||www.valueresearchonline.com/assets/images/rating-star-*.svg$image
 
 ! marketplace.visualstudio.com
