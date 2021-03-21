@@ -45,6 +45,7 @@ www.valueresearchonline.com##th.sorting.text-left:nth-of-type(3)
 www.valueresearchonline.com##th.sorting.text-left:nth-of-type(4)
 www.valueresearchonline.com##.vr-social-logins
 www.valueresearchonline.com##.section-divider-rule
+www.valueresearchonline.com##a[class*=invest-online]
 ||www.valueresearchonline.com/assets/images/rating-star-*.svg$image
 
 ! marketplace.visualstudio.com
