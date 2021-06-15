@@ -15,6 +15,9 @@ kuvera.in##div[class*=each1-teach1]
 www.livemint.com##p:has( > strong:has-text(Also Read))
 www.livemint.com##div.moreNews
 
+! Quora
+duckduckgo.com##div[data-domain="www.quora.com"]
+
 ! StackExchange
 stackexchange.com##.google-login
 stackexchange.com##.facebook-login
@@ -30,7 +33,7 @@ askubuntu.com##.facebook-login
 ! The New York Times
 www.nytimes.com##div[id*=story-ad-]
 
-! ValueResearchOnline
+! Value Research Online
 www.valueresearchonline.com###gooogle-spinner
 www.valueresearchonline.com###fb-spinner
 www.valueresearchonline.com##div[id*=vro_en_homepage_leaderboard]
@@ -48,7 +51,7 @@ www.valueresearchonline.com##.section-divider-rule
 www.valueresearchonline.com##a[class*=invest-online]
 ||www.valueresearchonline.com/assets/images/rating-star-*.svg$image
 
-! marketplace.visualstudio.com
+! Market Place Visual Studio
 marketplace.visualstudio.com###survey-container
 
 ! Others
