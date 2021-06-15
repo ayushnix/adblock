@@ -1,4 +1,4 @@
 ! Title: Ads and Trackers List
 ! Repo: https://github.com/ayushnix/adblock
-! License: https://unlicense.org/
+! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Expires: 7 days

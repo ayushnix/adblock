@@ -1,7 +1,7 @@
 ! Title: Bullshit List
 ! Description: Clickbait, Misinformation, Conspiracy Theories, Hatred, Violence, Superstition
 ! Repo: https://github.com/ayushnix/adblock
-! License: https://unlicense.org/
+! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Expires: 7 days
 
 ||timesofindia.indiatimes.com^$all
