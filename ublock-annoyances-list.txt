@@ -15,6 +15,9 @@ kuvera.in##div[class*=each1-teach1]
 www.livemint.com##p:has( > strong:has-text(Also Read))
 www.livemint.com##div.moreNews
 
+! Market Place Visual Studio
+marketplace.visualstudio.com###survey-container
+
 ! Quora
 duckduckgo.com##div[data-domain="www.quora.com"]
 
@@ -52,8 +55,10 @@ www.valueresearchonline.com##a[class*=invest-online]
 www.valueresearchonline.com###fund-tab > .vr-premium-tag
 ||www.valueresearchonline.com/assets/images/rating-star-*.svg$image
 
-! Market Place Visual Studio
-marketplace.visualstudio.com###survey-container
+! YouTube
+! disable the YT home page and recommended videos in the right sidebar
+www.youtube.com###related
+www.youtube.com##ytd-browse.ytd-page-manager.style-scope[page-subtype="home"]
 
 ! Others
 ruddra.com##.show
