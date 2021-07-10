@@ -1,0 +1,9 @@
+! Title: Distraction Free YouTube List
+! Repo: https://github.com/ayushnix/adblock
+! License: https://creativecommons.org/publicdomain/zero/1.0/
+! Expires: 7 days
+
+! YouTube
+! disable the YT home page and recommended videos in the right sidebar
+www.youtube.com###related
+www.youtube.com##ytd-browse.ytd-page-manager.style-scope[page-subtype="home"]

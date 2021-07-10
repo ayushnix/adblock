@@ -55,10 +55,5 @@ www.valueresearchonline.com##a[class*=invest-online]
 www.valueresearchonline.com###fund-tab > .vr-premium-tag
 ||www.valueresearchonline.com/assets/images/rating-star-*.svg$image
 
-! YouTube
-! disable the YT home page and recommended videos in the right sidebar
-www.youtube.com###related
-www.youtube.com##ytd-browse.ytd-page-manager.style-scope[page-subtype="home"]
-
 ! Others
 ruddra.com##.show
