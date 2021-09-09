@@ -3,6 +3,9 @@
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Expires: 7 days
 
+! GitHub
+github.com##span[class*="Label Label--secondary v-align-middle"]:has-text(Public)
+
 ! Kuvera
 kuvera.in##.in-btn-google.btn
 kuvera.in##.in-btn-fb.btn
