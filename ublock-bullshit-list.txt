@@ -1,13 +1,13 @@
 ! Title: Bullshit List
-! Description: Clickbait, Misinformation, Conspiracy Theories, Hatred, Violence, Superstition
+! Description: Clickbait, Misinformation, Conspiracy Theories, Hatred, Violence, Superstition, Echo Chambers, Fundamentalism
 ! Repo: https://github.com/ayushnix/adblock
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Expires: 7 days
 
-||timesofindia.indiatimes.com^$all
-||screenrant.com^$all
-||news18.com^$all
 ||dnaindia.com^$all
+||news18.com^$all
+||screenrant.com^$all
+||timesofindia.indiatimes.com^$all
 
 ! remove quora from search results
 duckduckgo.com##div[data-domain="www.quora.com"]
