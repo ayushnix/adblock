@@ -21,9 +21,6 @@ www.livemint.com##div.moreNews
 ! Market Place Visual Studio
 marketplace.visualstudio.com###survey-container
 
-! Quora
-duckduckgo.com##div[data-domain="www.quora.com"]
-
 ! StackExchange
 stackexchange.com##.google-login
 stackexchange.com##.facebook-login
