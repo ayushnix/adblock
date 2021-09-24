@@ -1,13 +1,31 @@
 ! Title: Bullshit List
-! Description: Clickbait, Misinformation, Conspiracy Theories, Hatred, Violence, Superstition, Echo Chambers, Fundamentalism
+! Description: A filter list that blocks bullshit
 ! Repo: https://github.com/ayushnix/adblock
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Expires: 7 days
+!
+! The categories of bullshit that this filter list is meant to block are as follows
+! - clickbait
+! - misinformation
+! - conspiracy theories
+! - echo chambers and circlejerk forums and communities
+! - fundamentalism
+! - low effort trash
+! - superstition
+! - hatred
+! - violence
 
 ||dnaindia.com^$all
 ||news18.com^$all
 ||screenrant.com^$all
 ||timesofindia.indiatimes.com^$all
 
-! remove quora from search results
+! Remove Quora From Search Results
 duckduckgo.com##div[data-domain="www.quora.com"]
+
+! Phoronix Forums
+www.phoronix.com##span[class=comments]
+www.phoronix.com##div[class="comments-label"]
+www.phoronix.com##li[class=menulink] > a[href="https://www.phoronix.com/forums/"]
+www.phoronix.com##div[class="popular-list"] > a[href^="/forums/"]
+www.phoronix.com##header:has-text(Popular In The Forums)
