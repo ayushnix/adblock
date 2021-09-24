@@ -8,3 +8,6 @@
 ||screenrant.com^$all
 ||news18.com^$all
 ||dnaindia.com^$all
+
+! remove quora from search results
+duckduckgo.com##div[data-domain="www.quora.com"]
