@@ -29,3 +29,7 @@ www.phoronix.com##div[class="comments-label"]
 www.phoronix.com##li[class=menulink] > a[href="https://www.phoronix.com/forums/"]
 www.phoronix.com##div[class="popular-list"] > a[href^="/forums/"]
 www.phoronix.com##header:has-text(Popular In The Forums)
+
+! ArsTechnica Forums
+arstechnica.com##.comments-hotness
+arstechnica.com##[class^=comment-count]
