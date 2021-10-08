@@ -57,3 +57,7 @@ www.valueresearchonline.com###fund-tab > .vr-premium-tag
 
 ! Others
 ruddra.com##.show
+
+! SEO Clickbait
+||itectec.com^$all
+||www.titanwolf.org^$all
