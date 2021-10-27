@@ -1,4 +1,4 @@
-! Title: Distraction Free YouTube List
+! Title: AyushNix YouTube "Cleaner" List
 ! Repo: https://github.com/ayushnix/adblock
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Expires: 7 days

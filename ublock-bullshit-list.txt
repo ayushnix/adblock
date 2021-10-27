@@ -1,4 +1,4 @@
-! Title: Bullshit List
+! Title: AyushNix Bullshit List
 ! Description: A filter list that blocks bullshit
 ! Repo: https://github.com/ayushnix/adblock
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
