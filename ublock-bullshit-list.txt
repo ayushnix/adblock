@@ -20,6 +20,11 @@
 ||screenrant.com^$all
 ||timesofindia.indiatimes.com^$all
 
+! SEO Clickbait
+||itectec.com^$all
+||www.titanwolf.org^$all
+||wekeepcoding.com^$all
+
 ! Remove Quora From Search Results
 duckduckgo.com##div[data-domain="www.quora.com"]
 
