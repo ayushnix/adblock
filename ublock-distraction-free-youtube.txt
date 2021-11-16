@@ -7,3 +7,6 @@ www.youtube.com###related
 www.youtube.com###comments
 www.youtube.com###subscribe-button
 www.youtube.com##ytd-browse.ytd-page-manager.style-scope[page-subtype="home"]
+www.youtube.com###chat
+www.youtube.com###voice-search-button
+www.youtube.com###sponsor-button
