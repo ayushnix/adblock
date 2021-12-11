@@ -32,6 +32,7 @@ superuser.com##.google-login
 superuser.com##.facebook-login
 askubuntu.com##.google-login
 askubuntu.com##.facebook-login
+stackoverflow.com##div[class*=js-consent-banner]
 
 ! The New York Times
 www.nytimes.com##div[id*=story-ad-]
