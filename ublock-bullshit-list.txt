@@ -26,6 +26,7 @@
 ||wekeepcoding.com^$all
 ||www.how-use-excel.com^$all
 ||www.best-university.com^$all
+||noise.getoto.net^$all
 
 ! Remove Quora From Search Results
 duckduckgo.com##div[data-domain="www.quora.com"]
