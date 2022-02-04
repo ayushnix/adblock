@@ -1,0 +1,13 @@
+! Title: AyushNix YouTube Cleaner List
+! Description: A filter list which cleans the YouTube website
+! Expires: 7 days
+! License: https://creativecommons.org/publicdomain/zero/1.0/
+! Homepage: https://github.com/ayushnix/adblock
+
+www.youtube.com###related
+www.youtube.com###comments
+www.youtube.com###subscribe-button
+www.youtube.com##ytd-browse.ytd-page-manager.style-scope[page-subtype="home"]
+www.youtube.com###chat
+www.youtube.com###voice-search-button
+www.youtube.com###sponsor-button
