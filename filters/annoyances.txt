@@ -1,0 +1,119 @@
+! Title: AyushNix Annoyances List
+! Description: A filter list that blocks annoying elements on web pages
+! Expires: 7 days
+! License: https://creativecommons.org/publicdomain/zero/1.0/
+! Homepage: https://github.com/ayushnix/adblock
+
+! The scope of this list includes
+! - cookie banners
+! - social media login buttons
+! - unnecessary interruptions and superficial content
+! - membership buttons
+! - whitespace sections left over after blocking ads
+! - forums which waste time and engage in pointless discussions
+! - anything which doesn't add any value for a user on a web page
+!
+! This list won't block domains, it'll hide elements which fall into either
+! one of the categories mentioned above. It will, however, block individual
+! resources on a page.
+
+! This list may not suitable for usage for anyone else besides myself. You're
+! welcome to use it at your own risk.
+
+github.com##span[class*="Label Label--secondary v-align-middle"]:has-text(Public)
+
+kuvera.in##.in-btn-google.btn
+kuvera.in##.in-btn-fb.btn
+kuvera.in##.seperator.col-md-1.hidden-xs.hidden-sm
+kuvera.in##div[class*=goldLarge]
+kuvera.in##div[class*=each1-teach1]
+kuvera.in##.dashboard-body__notifications
+kuvera.in##.b-amazon-pay-banner
+||assets2.kuvera.in/production/atlantis/web/assets/img/health-insurance/common/disable-shield.svg$image
+
+www.livemint.com##p:has( > strong:has-text(Also Read))
+www.livemint.com##div.moreNews
+
+marketplace.visualstudio.com###survey-container
+
+stackexchange.com##.google-login
+stackexchange.com##.facebook-login
+stackoverflow.com##.google-login
+stackoverflow.com##.facebook-login
+serverfault.com##.google-login
+serverfault.com##.facebook-login
+superuser.com##.google-login
+superuser.com##.facebook-login
+askubuntu.com##.google-login
+askubuntu.com##.facebook-login
+stackoverflow.com##div[class*=js-consent-banner]
+
+www.nytimes.com##div[id*=story-ad-]
+
+www.valueresearchonline.com###gooogle-spinner
+www.valueresearchonline.com###fb-spinner
+www.valueresearchonline.com##div[id*=vro_en_homepage_leaderboard]
+www.valueresearchonline.com##div[class*=vr-ad-box]
+www.valueresearchonline.com##.vr-bottom-bar
+www.valueresearchonline.com##.analytics-head
+www.valueresearchonline.com##.vr-signup-box
+www.valueresearchonline.com###session-alerts
+www.valueresearchonline.com##td.text-left:nth-of-type(3)
+www.valueresearchonline.com##td.text-left:nth-of-type(4)
+www.valueresearchonline.com##th.sorting.text-left:nth-of-type(3)
+www.valueresearchonline.com##th.sorting.text-left:nth-of-type(4)
+www.valueresearchonline.com##.vr-social-logins
+www.valueresearchonline.com##.section-divider-rule
+www.valueresearchonline.com##a[class*=invest-online]
+www.valueresearchonline.com###fund-tab > .vr-premium-tag
+||www.valueresearchonline.com/assets/images/rating-star-*.svg$image
+
+ruddra.com##.show
+
+www.phoronix.com##span[class=comments]
+www.phoronix.com##div[class="comments-label"]
+www.phoronix.com##li[class=menulink] > a[href="https://www.phoronix.com/forums/"]
+www.phoronix.com##div[class="popular-list"] > a[href^="/forums/"]
+www.phoronix.com##header:has-text(Popular In The Forums)
+
+arstechnica.com##.comments-hotness
+arstechnica.com##[class^=comment-count]
+
+retail.onlinesbi.com##.wpanel_marquee
+retail.onlinesbi.com##.slide.carousel
+retail.onlinesbi.com###best_view
+retail.onlinesbi.com###executefavoritesForm
+retail.onlinesbi.com##.yono
+retail.onlinesbi.com##.home_loan
+retail.onlinesbi.com##.sbi_exclusif
+retail.onlinesbi.com##.sbi_myworld
+retail.onlinesbi.com##.info_panel
+retail.onlinesbi.com##div.row > div.col-sm-6.col-md-6.col-lg-6 > .border-box
+retail.onlinesbi.com###phishing_message
+retail.onlinesbi.com###phishing_block > div#terms_area.row
+retail.onlinesbi.com###phishing_block > .own_head
+retail.onlinesbi.com###phishing_contents
+retail.onlinesbi.com##.virtual
+retail.onlinesbi.com##.user_links p
+retail.onlinesbi.com##.login_heading
+retail.onlinesbi.com##.login_box > p
+retail.onlinesbi.com##.login_box
+retail.onlinesbi.com###provide_list
+retail.onlinesbi.com###footer
+retail.onlinesbi.com##.virtual_link
+||retail.onlinesbi.com/sbijava/retail/images/HomeLoanButton.png$image
+||retail.onlinesbi.com/sbijava/retail/images/login_img.png$image
+||retail.onlinesbi.com/sbijava/retail/images/sprite_icon.png$image
+||retail.onlinesbi.com/sbijava/retail/images/sprite_icon.png$image
+||retail.onlinesbi.com/sbijava/images/logoutimages/retail_0_image2.jpg$image
+||retail.onlinesbi.com/sbijava/images/logoutimages/retail_0_image4.jpg$image
+||retail.onlinesbi.com/sbijava/images/logoutimages/retail_0_image3.jpg$image
+||retail.onlinesbi.com/sbijava/images/logoutimages/retail_0_image5.jpg$image
+||retail.onlinesbi.com/sbijava/images/logoutimages/retail_0_image1.jpg$image
+
+www.ft.com##.n-feedback__container
+www.ft.com##.js-instant-alert-cta.instant-alert-cta
+www.ft.com##.concept-list
+www.ft.com##.article__content-sign-up
+
+www.bloomberg.com###fortress-preblocked-container-root
