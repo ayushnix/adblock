@@ -11,3 +11,4 @@ www.youtube.com##ytd-browse.ytd-page-manager.style-scope[page-subtype="home"]
 www.youtube.com###chat
 www.youtube.com###voice-search-button
 www.youtube.com###sponsor-button
+www.youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
