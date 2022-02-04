@@ -1269,3 +1269,31 @@ lite.duckduckgo.com##a[href*="alltodev.com"]:upward(tr)+tr+tr+tr
 ! IMPORTED LIST OF DOMAINS END HERE -------------------------------------------
 
 ! BEGIN CUSTOM ADDITIONS ------------------------------------------------------
+google.*##.g:has(a[href*="gitcode.net"])
+duckduckgo.*##div[data-domain*="gitcode.net"]
+html.duckduckgo.*##a[href*="gitcode.net"]:upward(.result)
+lite.duckduckgo.com##a[href*="gitcode.net"]:upward(tr)
+lite.duckduckgo.com##a[href*="gitcode.net"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="gitcode.net"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="gitcode.net"]:upward(tr)+tr+tr+tr
+google.*##.g:has(a[href*="https--github--com.proxy.huizhou.gov.cn"])
+duckduckgo.*##div[data-domain*="https--github--com.proxy.huizhou.gov.cn"]
+html.duckduckgo.*##a[href*="https--github--com.proxy.huizhou.gov.cn"]:upward(.result)
+lite.duckduckgo.com##a[href*="https--github--com.proxy.huizhou.gov.cn"]:upward(tr)
+lite.duckduckgo.com##a[href*="https--github--com.proxy.huizhou.gov.cn"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="https--github--com.proxy.huizhou.gov.cn"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="https--github--com.proxy.huizhou.gov.cn"]:upward(tr)+tr+tr+tr
+google.*##.g:has(a[href*="liuqiufeng.com"])
+duckduckgo.*##div[data-domain*="liuqiufeng.com"]
+html.duckduckgo.*##a[href*="liuqiufeng.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="liuqiufeng.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="liuqiufeng.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="liuqiufeng.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="liuqiufeng.com"]:upward(tr)+tr+tr+tr
+google.*##.g:has(a[href*="libhunt.com"])
+duckduckgo.*##div[data-domain*="libhunt.com"]
+html.duckduckgo.*##a[href*="libhunt.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="libhunt.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="libhunt.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="libhunt.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="libhunt.com"]:upward(tr)+tr+tr+tr
