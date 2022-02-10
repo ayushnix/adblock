@@ -46,10 +46,11 @@ superuser.com##.google-login
 superuser.com##.facebook-login
 askubuntu.com##.google-login
 askubuntu.com##.facebook-login
-stackoverflow.com##div[class*=js-consent-banner]
 stackoverflow.com##.s-sidebarwidget
 stackoverflow.com###hot-network-questions
 stackoverflow.com##.js-feed-link
+stackoverflow.com##.js-consent-banner
+stackexchange.com##.js-consent-banner
 
 www.nytimes.com##div[id*=story-ad-]
 
