@@ -1,8 +1,8 @@
 ! Title: AyushNix YouTube Cleaner List
 ! Description: A filter list which cleans the YouTube website
-! Expires: 7 days
-! License: https://creativecommons.org/publicdomain/zero/1.0/
-! Homepage: https://github.com/ayushnix/adblock
+! Expires: 1 day
+! License: https://spdx.org/licenses/ISC.html
+! Repo: https://github.com/ayushnix/adblock
 
 www.youtube.com###related
 www.youtube.com###comments

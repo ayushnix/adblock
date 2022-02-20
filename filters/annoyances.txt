@@ -1,8 +1,8 @@
 ! Title: AyushNix Annoyances List
 ! Description: A filter list that blocks annoying elements on web pages
-! Expires: 7 days
-! License: https://creativecommons.org/publicdomain/zero/1.0/
-! Homepage: https://github.com/ayushnix/adblock
+! Expires: 1 day
+! License: https://spdx.org/licenses/ISC.html
+! Repo: https://github.com/ayushnix/adblock
 
 ! The scope of this list includes
 ! - cookie banners
@@ -16,7 +16,7 @@
 ! This list won't block domains, it'll hide elements which fall into either
 ! one of the categories mentioned above. It will, however, block individual
 ! resources on a page.
-
+!
 ! This list may not suitable for usage for anyone else besides myself. You're
 ! welcome to use it at your own risk.
 
