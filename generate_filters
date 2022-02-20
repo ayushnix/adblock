@@ -1,0 +1,202 @@
+#!/bin/bash
+# SPDX-License-Identifier: ISC
+#
+# Copyright (c) 2021-2022 Ayush Agarwal <ayushnix at fastmail dot com>
+#
+# Permission to use, copy, modify, and /or distribute this software for any
+# purpose with or without fee is hereby granted, provided that the above
+# copyright notice and this permission notice appear in all copies.
+#
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+# REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+# INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+# LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+# OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+# PERFORMANCE OF THIS SOFTWARE.
+#
+# -----------------------------------------------------------------------------
+#
+# This script is meant to generate filters for hiding search results for
+# domains that are provided as input.
+#
+# -----------------------------------------------------------------------------
+
+# create a temporary folder to download and parse data
+declare tmpdir tmpfile urls
+
+# check if the source is valid
+is_valid_url() {
+  if [[ $1 =~ ^\*:\/\/.+\/\*$ ]]; then
+    return 0
+  else
+    return 1
+  fi
+}
+
+# download filter lists from these repos
+download_external_filters() {
+  local line
+
+  while read -r line || [[ -n $line ]]; do
+    curl -L -o "$(date +%Y-%m-%d-%H-%M-%S-%N)".txt --output-dir "$tmpdir" "$line" \
+      || printf "%s\n" "error while downloading $line" >&2
+  done < sources.txt
+
+  unset -v line
+}
+
+# create a list of unqiue and valid URLs
+# could've used an associative array to create a unique list of elements but
+# I'm not that serious about this script so we'll just use uniq
+gen_uniq_urls() {
+  local line file
+
+  for file in "$tmpdir"/*.txt; do
+    while read -r line || [[ -n $line ]]; do
+      if is_valid_url "$line"; then
+        # strip `://` from the beginning
+        line="${line#*\/\/}"
+        # strip `/*` from the end
+        line="${line%/*}"
+        # strip `*.` if present in the beginning
+        line="${line#\*\.}"
+        # strip `www` if present in the beginning
+        # the entire apex domain gets fucked
+        line="${line#www\.}"
+        printf "%s\n" "$line" >> "$tmpfile"
+      fi
+    done < "$file"
+  done
+
+  # these files contain urls that I found which weren't blocked using the
+  # external lists downloaded
+  for file in urls/*.txt; do
+    while read -r line || [[ -n $line ]]; do
+      printf "%s\n" "$line" >> "$tmpfile"
+    done < "$file"
+  done
+
+  # tmpfile should now have the list of urls that we downloaded
+  # we need uniq urls
+  sort "$tmpfile" | uniq > "$urls"
+
+  unset -v line file
+}
+
+gen_google() {
+  printf "%s\n" "google.*##.g:has(a[href*=\"$1\"])" >> filters/search.txt
+}
+
+gen_brave() {
+  printf "%s\n" "search.brave.com###results > div:has(a[href*=\"$1\"])" >> filters/search.txt
+}
+
+gen_ddg() {
+  {
+    printf "%s\n" "duckduckgo.com##div[data-domain*=\"$1\"]"
+    printf "%s\n" "html.duckduckgo.com##a[href*=\"$1\"]:upward(.result)"
+    printf "%s\n" "lite.duckduckgo.com##a[href*=\"$1\"]:upward(tr)"
+    printf "%s\n" "lite.duckduckgo.com##a[href*=\"$1\"]:upward(tr)+tr"
+    printf "%s\n" "lite.duckduckgo.com##a[href*=\"$1\"]:upward(tr)+tr+tr"
+    printf "%s\n" "lite.duckduckgo.com##a[href*=\"$1\"]:upward(tr)+tr+tr+tr"
+  } >> filters/search.txt
+}
+
+gen_ecosia() {
+  printf "%s\n" "ecosia.org##.result:has(a[href*=\"$1\"])" >> filters/search.txt
+}
+
+gen_startpage() {
+  printf "%s\n" "startpage.com##.w-gl__result:has(a[href*=\"$1\"])" >> filters/search.txt
+}
+
+gen_millionshort() {
+  printf "%s\n" "millionshort.com##a[href*=\"$1\"]:upward(li)" >> filters/search.txt
+}
+
+gen_yandex() {
+  printf "%s\n" "yandex.com##a[href*=\"$1\"]:upward(li)" >> filters/search.txt
+}
+
+gen_bing() {
+  printf "%s\n" "www.bing.com##a[href*=\"$1\"]:upward(li)" >> filters/search.txt
+}
+
+_die() {
+  if [[ -n $1 ]]; then
+    printf "%s\n" "$1" >&2
+  fi
+  exit 1
+}
+
+_clean() {
+  if [[ -d $tmpdir ]]; then
+    rm -rf "$tmpdir"
+  fi
+  if [[ -f $tmpfile ]]; then
+    rm -f "$tmpfile"
+  fi
+  # if [[ -f $urls ]]; then
+  #   rm -f "$urls"
+  # fi
+}
+
+# parse options and execute functions
+main() {
+  # create a temporary folder to download, parse, and generate data
+  tmpdir="$(mktemp -d)"
+  # create a temporary file to hold URLs which will be blocked
+  tmpfile="$(mktemp)"
+  # create a final file to hold external URLs which will be blocked
+  urls="$(mktemp)"
+
+  if ! [[ -d $tmpdir ]]; then
+    _die "unable to create temporary directory"
+  fi
+  if ! [[ -f $tmpfile ]]; then
+    _die "unable to create temporary file"
+  fi
+  if ! [[ -f $urls ]]; then
+    _die "unable to create temporary file"
+  fi
+
+  # download data
+  download_external_filters
+
+  # create a list of unique and valid URLs
+  gen_uniq_urls
+
+  # initialize the search engine blocklist
+  printf "%s" "\
+! Title: AyushNix Search Cleaner List
+! Description: A filter list which removes bullshit domains from search results and blocks them
+! Expires: 1 day
+! License: https://spdx.org/licenses/ISC.html
+! Repo: https://github.com/ayushnix/adblock
+
+! This list serves two purposes
+! - remove bullshit domains from search engine results
+! - block these bullshit domains
+
+" > filters/search.txt
+
+  # append the search engine cleaner results
+  while read -r line || [[ -n $line ]]; do
+    gen_google "$line"
+    gen_ddg "$line"
+    gen_millionshort "$line"
+    gen_brave "$line"
+    gen_yandex "$line"
+    gen_bing "$line"
+    gen_startpage "$line"
+    gen_ecosia "$line"
+    # block the domains as well in case they manage to somehow slip through
+    printf "%s\n" "$line" >> filters/search.txt
+  done < "$urls"
+
+  # clean the crap that we leave behind
+  _clean
+}
+
+main "$@"
