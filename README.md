@@ -4,11 +4,11 @@ This repository contains personal adblock lists that I use in uBlock Origin.
 
 If you're interested in using them, you can click on the following links and import them in uBO.
 
-- Search Engine Cleaner [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https%3A%2F%2Fsubscribe.adblockplus.org%2F%3Flocation%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fayushnix%2Fadblock%2Fmaster%2Ffilters%2Fsearch.txt%26title%3DAyushNix+Search+Cleaner+List)
+- Search Engine Cleaner [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fayushnix%2Fadblock%2Fmaster%2Ffilters%2Fsearch.txt&title=AyushNix%20Search%20Cleaner%20List)
 
-- Annoyances [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https%3A%2F%2Fsubscribe.adblockplus.org%2F%3Flocation%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fayushnix%2Fadblock%2Fmaster%2Ffilters%2Fannoyances.txt%26title%3DAyushNix+Annoyances+List)
+- Annoyances [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fayushnix%2Fadblock%2Fmaster%2Ffilters%2Fannoyances.txt&title=AyushNix%20Annoyances%20List)
 
-- YouTube Cleaner [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https%3A%2F%2Fsubscribe.adblockplus.org%2F%3Flocation%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fayushnix%2Fadblock%2Fmaster%2Ffilters%2Fyoutube.txt%26title%3DAyushNix+YouTube+Cleaner+List)
+- YouTube Cleaner [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fayushnix%2Fadblock%2Fmaster%2Ffilters%2Fyoutube.txt&title=AyushNix%20YouTube%20Cleaner%20List)
 
 - YouTube Channel [BlockList](https://raw.githubusercontent.com/ayushnix/adblock/master/filters/blocktube.txt) for [BlockTube](https://addons.mozilla.org/en-US/firefox/addon/blocktube/)
 
