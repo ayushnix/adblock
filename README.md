@@ -4,11 +4,11 @@ This repository contains personal adblock lists that I use in uBlock Origin.
 
 If you're interested in using them, you can click on the following links and import them in uBO.
 
-- Search Engine Cleaner [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ayushnix/adblock/master/filters/search.txt&title=AyushNix Search Cleaner List)
+- Search Engine Cleaner [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https%3A%2F%2Fsubscribe.adblockplus.org%2F%3Flocation%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fayushnix%2Fadblock%2Fmaster%2Ffilters%2Fsearch.txt%26title%3DAyushNix+Search+Cleaner+List)
 
-- Annoyances [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ayushnix/adblock/master/filters/annoyances.txt&title=AyushNix Annoyances List)
+- Annoyances [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https%3A%2F%2Fsubscribe.adblockplus.org%2F%3Flocation%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fayushnix%2Fadblock%2Fmaster%2Ffilters%2Fannoyances.txt%26title%3DAyushNix+Annoyances+List)
 
-- YouTube Cleaner [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ayushnix/adblock/master/filters/youtube.txt&title=AyushNix YouTube Cleaner List)
+- YouTube Cleaner [![uBO - add this filter](https://img.shields.io/static/v1?label=uBO&message=add%20this%20filter&color=de3f32&style=flat&logo=uBlock%20Origin)](https%3A%2F%2Fsubscribe.adblockplus.org%2F%3Flocation%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fayushnix%2Fadblock%2Fmaster%2Ffilters%2Fyoutube.txt%26title%3DAyushNix+YouTube+Cleaner+List)
 
 - YouTube Channel [BlockList](https://raw.githubusercontent.com/ayushnix/adblock/master/filters/blocktube.txt) for [BlockTube](https://addons.mozilla.org/en-US/firefox/addon/blocktube/)
 
@@ -66,3 +66,6 @@ In addition, I've also added a channel list that I've blocked using
 [BlockTube](https://addons.mozilla.org/en-US/firefox/addon/blocktube/). This list is fairly
 aggressive and if I see YouTube faces on thumbnails, bullshit that I don't like such as doom porn,
 superstition, extremist politics, misleading clickbait, I'll block that channel.
+
+It's important to note that the last time I did something like this, blocking channels or people or
+topics, was on Quora almost a decade ago and now, Quora is one of the domains in urls/misc.txt.
