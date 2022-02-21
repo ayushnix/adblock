@@ -8,6 +8,8 @@ on:
       - 'urls/*.txt'
       - '.github/workflows/*.yml'
       - 'generate_filters'
+  schedule:
+    - cron: '0 0 * * 0'
 
 jobs:
   deploy:
