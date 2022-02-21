@@ -1,0 +1,29 @@
+---
+name: create search engine filter list
+
+on:
+  push:
+    branches: master
+    paths:
+      - 'urls/*.txt'
+      - '.github/workflows/*.yml'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout the adblock repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: generate the search engine filter
+        run: bash ./generate_filters
+      - name: setup git config
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: commit files
+        run: |
+          git add -A
+          git commit -m "ci: update search engine filters"
+          git push origin master
