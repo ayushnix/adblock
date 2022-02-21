@@ -7,6 +7,7 @@ on:
     paths:
       - 'urls/*.txt'
       - '.github/workflows/*.yml'
+      - 'generate_filters'
 
 jobs:
   deploy:
