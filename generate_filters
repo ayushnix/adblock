@@ -39,8 +39,11 @@ download_external_filters() {
   local line
 
   while read -r line || [[ -n $line ]]; do
-    curl -L -o "$(date +%Y-%m-%d-%H-%M-%S-%N)".txt --output-dir "$tmpdir" "$line" \
-      || printf "%s\n" "error while downloading $line" >&2
+    # --output-dir doesn't work in ubuntu 20.04 LTS :facepalm:
+    # curl -L -o "$(date +%Y-%m-%d-%H-%M-%S-%N)".txt --output-dir "$tmpdir" "$line" \
+    #   || _die "error while downloading $line"
+    curl -L -o "$tmpdir"/"$(date +%Y-%m-%d-%H-%M-%S-%N)".txt "$line" \
+      || _die "error while downloading $line"
   done < sources.txt
 
   unset -v line
