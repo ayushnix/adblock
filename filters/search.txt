@@ -92,6 +92,20 @@ www.bing.com##a[href*="5axxw.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="5axxw.com"])
 ecosia.org##.result:has(a[href*="5axxw.com"])
 5axxw.com
+google.*##.g:has(a[href*="774.gs"])
+duckduckgo.com##div[data-domain*="774.gs"]
+html.duckduckgo.com##a[href*="774.gs"]:upward(.result)
+lite.duckduckgo.com##a[href*="774.gs"]:upward(tr)
+lite.duckduckgo.com##a[href*="774.gs"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="774.gs"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="774.gs"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="774.gs"]:upward(li)
+search.brave.com###results > div:has(a[href*="774.gs"])
+yandex.com##a[href*="774.gs"]:upward(li)
+www.bing.com##a[href*="774.gs"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="774.gs"])
+ecosia.org##.result:has(a[href*="774.gs"])
+774.gs
 google.*##.g:has(a[href*="95.216.144.15"])
 duckduckgo.com##div[data-domain*="95.216.144.15"]
 html.duckduckgo.com##a[href*="95.216.144.15"]:upward(.result)
@@ -736,6 +750,20 @@ www.bing.com##a[href*="aranjamentenuntaploiesti.ro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="aranjamentenuntaploiesti.ro"])
 ecosia.org##.result:has(a[href*="aranjamentenuntaploiesti.ro"])
 aranjamentenuntaploiesti.ro
+google.*##.g:has(a[href*="arip-photo.org"])
+duckduckgo.com##div[data-domain*="arip-photo.org"]
+html.duckduckgo.com##a[href*="arip-photo.org"]:upward(.result)
+lite.duckduckgo.com##a[href*="arip-photo.org"]:upward(tr)
+lite.duckduckgo.com##a[href*="arip-photo.org"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="arip-photo.org"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="arip-photo.org"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="arip-photo.org"]:upward(li)
+search.brave.com###results > div:has(a[href*="arip-photo.org"])
+yandex.com##a[href*="arip-photo.org"]:upward(li)
+www.bing.com##a[href*="arip-photo.org"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="arip-photo.org"])
+ecosia.org##.result:has(a[href*="arip-photo.org"])
+arip-photo.org
 google.*##.g:has(a[href*="article.docway.net"])
 duckduckgo.com##div[data-domain*="article.docway.net"]
 html.duckduckgo.com##a[href*="article.docway.net"]:upward(.result)
@@ -2178,6 +2206,20 @@ www.bing.com##a[href*="codegear.dev"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="codegear.dev"])
 ecosia.org##.result:has(a[href*="codegear.dev"])
 codegear.dev
+google.*##.g:has(a[href*="codegrepper.com"])
+duckduckgo.com##div[data-domain*="codegrepper.com"]
+html.duckduckgo.com##a[href*="codegrepper.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="codegrepper.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="codegrepper.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="codegrepper.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="codegrepper.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="codegrepper.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="codegrepper.com"])
+yandex.com##a[href*="codegrepper.com"]:upward(li)
+www.bing.com##a[href*="codegrepper.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="codegrepper.com"])
+ecosia.org##.result:has(a[href*="codegrepper.com"])
+codegrepper.com
 google.*##.g:has(a[href*="codeguides.site"])
 duckduckgo.com##div[data-domain*="codeguides.site"]
 html.duckduckgo.com##a[href*="codeguides.site"]:upward(.result)
@@ -7694,6 +7736,20 @@ www.bing.com##a[href*="microdev.ro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="microdev.ro"])
 ecosia.org##.result:has(a[href*="microdev.ro"])
 microdev.ro
+google.*##.g:has(a[href*="microeducate.tech"])
+duckduckgo.com##div[data-domain*="microeducate.tech"]
+html.duckduckgo.com##a[href*="microeducate.tech"]:upward(.result)
+lite.duckduckgo.com##a[href*="microeducate.tech"]:upward(tr)
+lite.duckduckgo.com##a[href*="microeducate.tech"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="microeducate.tech"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="microeducate.tech"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="microeducate.tech"]:upward(li)
+search.brave.com###results > div:has(a[href*="microeducate.tech"])
+yandex.com##a[href*="microeducate.tech"]:upward(li)
+www.bing.com##a[href*="microeducate.tech"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="microeducate.tech"])
+ecosia.org##.result:has(a[href*="microeducate.tech"])
+microeducate.tech
 google.*##.g:has(a[href*="mihacisti.si"])
 duckduckgo.com##div[data-domain*="mihacisti.si"]
 html.duckduckgo.com##a[href*="mihacisti.si"]:upward(.result)
@@ -10242,6 +10298,20 @@ www.bing.com##a[href*="progi.pro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="progi.pro"])
 ecosia.org##.result:has(a[href*="progi.pro"])
 progi.pro
+google.*##.g:has(a[href*="programmierfrage.com"])
+duckduckgo.com##div[data-domain*="programmierfrage.com"]
+html.duckduckgo.com##a[href*="programmierfrage.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="programmierfrage.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="programmierfrage.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="programmierfrage.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="programmierfrage.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="programmierfrage.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="programmierfrage.com"])
+yandex.com##a[href*="programmierfrage.com"]:upward(li)
+www.bing.com##a[href*="programmierfrage.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="programmierfrage.com"])
+ecosia.org##.result:has(a[href*="programmierfrage.com"])
+programmierfrage.com
 google.*##.g:has(a[href*="projectbackpack.org"])
 duckduckgo.com##div[data-domain*="projectbackpack.org"]
 html.duckduckgo.com##a[href*="projectbackpack.org"]:upward(.result)
