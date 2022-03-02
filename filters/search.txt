@@ -4936,6 +4936,20 @@ www.bing.com##a[href*="gitmotion.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="gitmotion.com"])
 ecosia.org##.result:has(a[href*="gitmotion.com"])
 gitmotion.com
+google.*##.g:has(a[href*="gitop.top"])
+duckduckgo.com##div[data-domain*="gitop.top"]
+html.duckduckgo.com##a[href*="gitop.top"]:upward(.result)
+lite.duckduckgo.com##a[href*="gitop.top"]:upward(tr)
+lite.duckduckgo.com##a[href*="gitop.top"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="gitop.top"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="gitop.top"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="gitop.top"]:upward(li)
+search.brave.com###results > div:has(a[href*="gitop.top"])
+yandex.com##a[href*="gitop.top"]:upward(li)
+www.bing.com##a[href*="gitop.top"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="gitop.top"])
+ecosia.org##.result:has(a[href*="gitop.top"])
+gitop.top
 google.*##.g:has(a[href*="glammy.si"])
 duckduckgo.com##div[data-domain*="glammy.si"]
 html.duckduckgo.com##a[href*="glammy.si"]:upward(.result)
