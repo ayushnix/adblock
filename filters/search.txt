@@ -820,6 +820,20 @@ www.bing.com##a[href*="ask-ubuntu.ru"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="ask-ubuntu.ru"])
 ecosia.org##.result:has(a[href*="ask-ubuntu.ru"])
 ask-ubuntu.ru
+google.*##.g:has(a[href*="askandroidquestions.com"])
+duckduckgo.com##div[data-domain*="askandroidquestions.com"]
+html.duckduckgo.com##a[href*="askandroidquestions.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="askandroidquestions.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="askandroidquestions.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="askandroidquestions.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="askandroidquestions.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="askandroidquestions.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="askandroidquestions.com"])
+yandex.com##a[href*="askandroidquestions.com"]:upward(li)
+www.bing.com##a[href*="askandroidquestions.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="askandroidquestions.com"])
+ecosia.org##.result:has(a[href*="askandroidquestions.com"])
+askandroidquestions.com
 google.*##.g:has(a[href*="askcodez.com"])
 duckduckgo.com##div[data-domain*="askcodez.com"]
 html.duckduckgo.com##a[href*="askcodez.com"]:upward(.result)
@@ -5328,6 +5342,20 @@ www.bing.com##a[href*="hawkeyealaska.news"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="hawkeyealaska.news"])
 ecosia.org##.result:has(a[href*="hawkeyealaska.news"])
 hawkeyealaska.news
+google.*##.g:has(a[href*="helpex.vn"])
+duckduckgo.com##div[data-domain*="helpex.vn"]
+html.duckduckgo.com##a[href*="helpex.vn"]:upward(.result)
+lite.duckduckgo.com##a[href*="helpex.vn"]:upward(tr)
+lite.duckduckgo.com##a[href*="helpex.vn"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="helpex.vn"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="helpex.vn"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="helpex.vn"]:upward(li)
+search.brave.com###results > div:has(a[href*="helpex.vn"])
+yandex.com##a[href*="helpex.vn"]:upward(li)
+www.bing.com##a[href*="helpex.vn"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="helpex.vn"])
+ecosia.org##.result:has(a[href*="helpex.vn"])
+helpex.vn
 google.*##.g:has(a[href*="heroic.ro"])
 duckduckgo.com##div[data-domain*="heroic.ro"]
 html.duckduckgo.com##a[href*="heroic.ro"]:upward(.result)
@@ -7120,6 +7148,20 @@ www.bing.com##a[href*="libhunt.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="libhunt.com"])
 ecosia.org##.result:has(a[href*="libhunt.com"])
 libhunt.com
+google.*##.g:has(a[href*="lifesaver.codes"])
+duckduckgo.com##div[data-domain*="lifesaver.codes"]
+html.duckduckgo.com##a[href*="lifesaver.codes"]:upward(.result)
+lite.duckduckgo.com##a[href*="lifesaver.codes"]:upward(tr)
+lite.duckduckgo.com##a[href*="lifesaver.codes"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="lifesaver.codes"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="lifesaver.codes"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="lifesaver.codes"]:upward(li)
+search.brave.com###results > div:has(a[href*="lifesaver.codes"])
+yandex.com##a[href*="lifesaver.codes"]:upward(li)
+www.bing.com##a[href*="lifesaver.codes"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="lifesaver.codes"])
+ecosia.org##.result:has(a[href*="lifesaver.codes"])
+lifesaver.codes
 google.*##.g:has(a[href*="limited-view.news"])
 duckduckgo.com##div[data-domain*="limited-view.news"]
 html.duckduckgo.com##a[href*="limited-view.news"]:upward(.result)
@@ -13042,6 +13084,20 @@ www.bing.com##a[href*="techfeed.net"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="techfeed.net"])
 ecosia.org##.result:has(a[href*="techfeed.net"])
 techfeed.net
+google.*##.g:has(a[href*="techtalk7.com"])
+duckduckgo.com##div[data-domain*="techtalk7.com"]
+html.duckduckgo.com##a[href*="techtalk7.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="techtalk7.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="techtalk7.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="techtalk7.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="techtalk7.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="techtalk7.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="techtalk7.com"])
+yandex.com##a[href*="techtalk7.com"]:upward(li)
+www.bing.com##a[href*="techtalk7.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="techtalk7.com"])
+ecosia.org##.result:has(a[href*="techtalk7.com"])
+techtalk7.com
 google.*##.g:has(a[href*="telemarcu.ro"])
 duckduckgo.com##div[data-domain*="telemarcu.ro"]
 html.duckduckgo.com##a[href*="telemarcu.ro"]:upward(.result)
@@ -13756,6 +13812,20 @@ www.bing.com##a[href*="tutorialguruji.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="tutorialguruji.com"])
 ecosia.org##.result:has(a[href*="tutorialguruji.com"])
 tutorialguruji.com
+google.*##.g:has(a[href*="tutorialmeta.com"])
+duckduckgo.com##div[data-domain*="tutorialmeta.com"]
+html.duckduckgo.com##a[href*="tutorialmeta.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="tutorialmeta.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="tutorialmeta.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="tutorialmeta.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="tutorialmeta.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="tutorialmeta.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="tutorialmeta.com"])
+yandex.com##a[href*="tutorialmeta.com"]:upward(li)
+www.bing.com##a[href*="tutorialmeta.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="tutorialmeta.com"])
+ecosia.org##.result:has(a[href*="tutorialmeta.com"])
+tutorialmeta.com
 google.*##.g:has(a[href*="tutorialmore.com"])
 duckduckgo.com##div[data-domain*="tutorialmore.com"]
 html.duckduckgo.com##a[href*="tutorialmore.com"]:upward(.result)
