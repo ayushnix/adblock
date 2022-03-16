@@ -7078,6 +7078,20 @@ www.bing.com##a[href*="leagoo-romania.ro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="leagoo-romania.ro"])
 ecosia.org##.result:has(a[href*="leagoo-romania.ro"])
 leagoo-romania.ro
+google.*##.g:has(a[href*="lefrasi.art"])
+duckduckgo.com##div[data-domain*="lefrasi.art"]
+html.duckduckgo.com##a[href*="lefrasi.art"]:upward(.result)
+lite.duckduckgo.com##a[href*="lefrasi.art"]:upward(tr)
+lite.duckduckgo.com##a[href*="lefrasi.art"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="lefrasi.art"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="lefrasi.art"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="lefrasi.art"]:upward(li)
+search.brave.com###results > div:has(a[href*="lefrasi.art"])
+yandex.com##a[href*="lefrasi.art"]:upward(li)
+www.bing.com##a[href*="lefrasi.art"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="lefrasi.art"])
+ecosia.org##.result:has(a[href*="lefrasi.art"])
+lefrasi.art
 google.*##.g:has(a[href*="legkovopros.ru"])
 duckduckgo.com##div[data-domain*="legkovopros.ru"]
 html.duckduckgo.com##a[href*="legkovopros.ru"]:upward(.result)
