@@ -9570,6 +9570,20 @@ www.bing.com##a[href*="pinterest.cl"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="pinterest.cl"])
 ecosia.org##.result:has(a[href*="pinterest.cl"])
 pinterest.cl
+google.*##.g:has(a[href*="pinterest.co.kr"])
+duckduckgo.com##div[data-domain*="pinterest.co.kr"]
+html.duckduckgo.com##a[href*="pinterest.co.kr"]:upward(.result)
+lite.duckduckgo.com##a[href*="pinterest.co.kr"]:upward(tr)
+lite.duckduckgo.com##a[href*="pinterest.co.kr"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="pinterest.co.kr"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="pinterest.co.kr"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="pinterest.co.kr"]:upward(li)
+search.brave.com###results > div:has(a[href*="pinterest.co.kr"])
+yandex.com##a[href*="pinterest.co.kr"]:upward(li)
+www.bing.com##a[href*="pinterest.co.kr"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="pinterest.co.kr"])
+ecosia.org##.result:has(a[href*="pinterest.co.kr"])
+pinterest.co.kr
 google.*##.g:has(a[href*="pinterest.co.uk"])
 duckduckgo.com##div[data-domain*="pinterest.co.uk"]
 html.duckduckgo.com##a[href*="pinterest.co.uk"]:upward(.result)
@@ -9696,6 +9710,20 @@ www.bing.com##a[href*="pinterest.ie"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="pinterest.ie"])
 ecosia.org##.result:has(a[href*="pinterest.ie"])
 pinterest.ie
+google.*##.g:has(a[href*="pinterest.it"])
+duckduckgo.com##div[data-domain*="pinterest.it"]
+html.duckduckgo.com##a[href*="pinterest.it"]:upward(.result)
+lite.duckduckgo.com##a[href*="pinterest.it"]:upward(tr)
+lite.duckduckgo.com##a[href*="pinterest.it"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="pinterest.it"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="pinterest.it"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="pinterest.it"]:upward(li)
+search.brave.com###results > div:has(a[href*="pinterest.it"])
+yandex.com##a[href*="pinterest.it"]:upward(li)
+www.bing.com##a[href*="pinterest.it"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="pinterest.it"])
+ecosia.org##.result:has(a[href*="pinterest.it"])
+pinterest.it
 google.*##.g:has(a[href*="pinterest.nz"])
 duckduckgo.com##div[data-domain*="pinterest.nz"]
 html.duckduckgo.com##a[href*="pinterest.nz"]:upward(.result)
@@ -9724,6 +9752,34 @@ www.bing.com##a[href*="pinterest.ph"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="pinterest.ph"])
 ecosia.org##.result:has(a[href*="pinterest.ph"])
 pinterest.ph
+google.*##.g:has(a[href*="pinterest.pt"])
+duckduckgo.com##div[data-domain*="pinterest.pt"]
+html.duckduckgo.com##a[href*="pinterest.pt"]:upward(.result)
+lite.duckduckgo.com##a[href*="pinterest.pt"]:upward(tr)
+lite.duckduckgo.com##a[href*="pinterest.pt"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="pinterest.pt"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="pinterest.pt"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="pinterest.pt"]:upward(li)
+search.brave.com###results > div:has(a[href*="pinterest.pt"])
+yandex.com##a[href*="pinterest.pt"]:upward(li)
+www.bing.com##a[href*="pinterest.pt"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="pinterest.pt"])
+ecosia.org##.result:has(a[href*="pinterest.pt"])
+pinterest.pt
+google.*##.g:has(a[href*="pinterest.ru"])
+duckduckgo.com##div[data-domain*="pinterest.ru"]
+html.duckduckgo.com##a[href*="pinterest.ru"]:upward(.result)
+lite.duckduckgo.com##a[href*="pinterest.ru"]:upward(tr)
+lite.duckduckgo.com##a[href*="pinterest.ru"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="pinterest.ru"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="pinterest.ru"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="pinterest.ru"]:upward(li)
+search.brave.com###results > div:has(a[href*="pinterest.ru"])
+yandex.com##a[href*="pinterest.ru"]:upward(li)
+www.bing.com##a[href*="pinterest.ru"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="pinterest.ru"])
+ecosia.org##.result:has(a[href*="pinterest.ru"])
+pinterest.ru
 google.*##.g:has(a[href*="pinterestcareers.com"])
 duckduckgo.com##div[data-domain*="pinterestcareers.com"]
 html.duckduckgo.com##a[href*="pinterestcareers.com"]:upward(.result)
@@ -10648,6 +10704,20 @@ www.bing.com##a[href*="pythonawesome.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="pythonawesome.com"])
 ecosia.org##.result:has(a[href*="pythonawesome.com"])
 pythonawesome.com
+google.*##.g:has(a[href*="pythonfixing.com"])
+duckduckgo.com##div[data-domain*="pythonfixing.com"]
+html.duckduckgo.com##a[href*="pythonfixing.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="pythonfixing.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="pythonfixing.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="pythonfixing.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="pythonfixing.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="pythonfixing.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="pythonfixing.com"])
+yandex.com##a[href*="pythonfixing.com"]:upward(li)
+www.bing.com##a[href*="pythonfixing.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="pythonfixing.com"])
+ecosia.org##.result:has(a[href*="pythonfixing.com"])
+pythonfixing.com
 google.*##.g:has(a[href*="pythonissues.com"])
 duckduckgo.com##div[data-domain*="pythonissues.com"]
 html.duckduckgo.com##a[href*="pythonissues.com"]:upward(.result)
