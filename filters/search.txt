@@ -5958,6 +5958,20 @@ www.bing.com##a[href*="investor.pinterestinc.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="investor.pinterestinc.com"])
 ecosia.org##.result:has(a[href*="investor.pinterestinc.com"])
 investor.pinterestinc.com
+google.*##.g:has(a[href*="iquestion.pro"])
+duckduckgo.com##div[data-domain*="iquestion.pro"]
+html.duckduckgo.com##a[href*="iquestion.pro"]:upward(.result)
+lite.duckduckgo.com##a[href*="iquestion.pro"]:upward(tr)
+lite.duckduckgo.com##a[href*="iquestion.pro"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="iquestion.pro"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="iquestion.pro"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="iquestion.pro"]:upward(li)
+search.brave.com###results > div:has(a[href*="iquestion.pro"])
+yandex.com##a[href*="iquestion.pro"]:upward(li)
+www.bing.com##a[href*="iquestion.pro"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="iquestion.pro"])
+ecosia.org##.result:has(a[href*="iquestion.pro"])
+iquestion.pro
 google.*##.g:has(a[href*="ir-iu.com"])
 duckduckgo.com##div[data-domain*="ir-iu.com"]
 html.duckduckgo.com##a[href*="ir-iu.com"]:upward(.result)
@@ -8548,6 +8562,20 @@ www.bing.com##a[href*="npmmirror.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 ecosia.org##.result:has(a[href*="npmmirror.com"])
 npmmirror.com
+google.*##.g:has(a[href*="ntcdoon.org"])
+duckduckgo.com##div[data-domain*="ntcdoon.org"]
+html.duckduckgo.com##a[href*="ntcdoon.org"]:upward(.result)
+lite.duckduckgo.com##a[href*="ntcdoon.org"]:upward(tr)
+lite.duckduckgo.com##a[href*="ntcdoon.org"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="ntcdoon.org"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="ntcdoon.org"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="ntcdoon.org"]:upward(li)
+search.brave.com###results > div:has(a[href*="ntcdoon.org"])
+yandex.com##a[href*="ntcdoon.org"]:upward(li)
+www.bing.com##a[href*="ntcdoon.org"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="ntcdoon.org"])
+ecosia.org##.result:has(a[href*="ntcdoon.org"])
+ntcdoon.org
 google.*##.g:has(a[href*="nuomiphp.com"])
 duckduckgo.com##div[data-domain*="nuomiphp.com"]
 html.duckduckgo.com##a[href*="nuomiphp.com"]:upward(.result)
