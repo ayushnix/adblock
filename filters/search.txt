@@ -8604,6 +8604,20 @@ www.bing.com##a[href*="nusabugeac.ro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="nusabugeac.ro"])
 ecosia.org##.result:has(a[href*="nusabugeac.ro"])
 nusabugeac.ro
+google.*##.g:has(a[href*="nxtstage.net"])
+duckduckgo.com##div[data-domain*="nxtstage.net"]
+html.duckduckgo.com##a[href*="nxtstage.net"]:upward(.result)
+lite.duckduckgo.com##a[href*="nxtstage.net"]:upward(tr)
+lite.duckduckgo.com##a[href*="nxtstage.net"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="nxtstage.net"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="nxtstage.net"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="nxtstage.net"]:upward(li)
+search.brave.com###results > div:has(a[href*="nxtstage.net"])
+yandex.com##a[href*="nxtstage.net"]:upward(li)
+www.bing.com##a[href*="nxtstage.net"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="nxtstage.net"])
+ecosia.org##.result:has(a[href*="nxtstage.net"])
+nxtstage.net
 google.*##.g:has(a[href*="offer-discount.cam"])
 duckduckgo.com##div[data-domain*="offer-discount.cam"]
 html.duckduckgo.com##a[href*="offer-discount.cam"]:upward(.result)
@@ -10760,6 +10774,20 @@ www.bing.com##a[href*="pythonissues.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="pythonissues.com"])
 ecosia.org##.result:has(a[href*="pythonissues.com"])
 pythonissues.com
+google.*##.g:has(a[href*="pythonlang.dev"])
+duckduckgo.com##div[data-domain*="pythonlang.dev"]
+html.duckduckgo.com##a[href*="pythonlang.dev"]:upward(.result)
+lite.duckduckgo.com##a[href*="pythonlang.dev"]:upward(tr)
+lite.duckduckgo.com##a[href*="pythonlang.dev"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="pythonlang.dev"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="pythonlang.dev"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="pythonlang.dev"]:upward(li)
+search.brave.com###results > div:has(a[href*="pythonlang.dev"])
+yandex.com##a[href*="pythonlang.dev"]:upward(li)
+www.bing.com##a[href*="pythonlang.dev"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="pythonlang.dev"])
+ecosia.org##.result:has(a[href*="pythonlang.dev"])
+pythonlang.dev
 google.*##.g:has(a[href*="pythonrepo.com"])
 duckduckgo.com##div[data-domain*="pythonrepo.com"]
 html.duckduckgo.com##a[href*="pythonrepo.com"]:upward(.result)
@@ -12734,6 +12762,20 @@ www.bing.com##a[href*="sre.pub"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="sre.pub"])
 ecosia.org##.result:has(a[href*="sre.pub"])
 sre.pub
+google.*##.g:has(a[href*="stackallflow.com"])
+duckduckgo.com##div[data-domain*="stackallflow.com"]
+html.duckduckgo.com##a[href*="stackallflow.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="stackallflow.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="stackallflow.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="stackallflow.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="stackallflow.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="stackallflow.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="stackallflow.com"])
+yandex.com##a[href*="stackallflow.com"]:upward(li)
+www.bing.com##a[href*="stackallflow.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="stackallflow.com"])
+ecosia.org##.result:has(a[href*="stackallflow.com"])
+stackallflow.com
 google.*##.g:has(a[href*="stackanswers.net"])
 duckduckgo.com##div[data-domain*="stackanswers.net"]
 html.duckduckgo.com##a[href*="stackanswers.net"]:upward(.result)
