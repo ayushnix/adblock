@@ -79,7 +79,7 @@ gen_brave() {
 
 gen_ddg() {
   {
-    printf "%s\n" "duckduckgo.com##div[data-domain*=\"$1\"]"
+    printf "%s\n" "duckduckgo.com##a[href*=\"$1\"]:upward(4)"
     printf "%s\n" "html.duckduckgo.com##a[href*=\"$1\"]:upward(.result)"
     printf "%s\n" "lite.duckduckgo.com##a[href*=\"$1\"]:upward(tr)"
     printf "%s\n" "lite.duckduckgo.com##a[href*=\"$1\"]:upward(tr)+tr"
