@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright (C) 2022 Ayush Agarwal
 # SPDX-License-Identifier: BSD-3-Clause
 #
 # This script is meant to generate filters for hiding search results for
