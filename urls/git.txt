@@ -15,3 +15,4 @@ pandolar.top
 gitop.top
 sre.pub
 git.je
+gitplanet.com
