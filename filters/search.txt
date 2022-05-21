@@ -1772,6 +1772,20 @@ www.bing.com##a[href*="buzzphp.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="buzzphp.com"])
 ecosia.org##.result:has(a[href*="buzzphp.com"])
 buzzphp.com
+google.*##.g:has(a[href*="bytemeta.vip"])
+duckduckgo.com##a[href*="bytemeta.vip"]:upward(4)
+html.duckduckgo.com##a[href*="bytemeta.vip"]:upward(.result)
+lite.duckduckgo.com##a[href*="bytemeta.vip"]:upward(tr)
+lite.duckduckgo.com##a[href*="bytemeta.vip"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="bytemeta.vip"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="bytemeta.vip"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="bytemeta.vip"]:upward(li)
+search.brave.com###results > div:has(a[href*="bytemeta.vip"])
+yandex.com##a[href*="bytemeta.vip"]:upward(li)
+www.bing.com##a[href*="bytemeta.vip"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="bytemeta.vip"])
+ecosia.org##.result:has(a[href*="bytemeta.vip"])
+bytemeta.vip
 google.*##.g:has(a[href*="c.offerprices.news"])
 duckduckgo.com##a[href*="c.offerprices.news"]:upward(4)
 html.duckduckgo.com##a[href*="c.offerprices.news"]:upward(.result)
@@ -11166,6 +11180,20 @@ www.bing.com##a[href*="qa.1r1g.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="qa.1r1g.com"])
 ecosia.org##.result:has(a[href*="qa.1r1g.com"])
 qa.1r1g.com
+google.*##.g:has(a[href*="qa.icopy.site"])
+duckduckgo.com##a[href*="qa.icopy.site"]:upward(4)
+html.duckduckgo.com##a[href*="qa.icopy.site"]:upward(.result)
+lite.duckduckgo.com##a[href*="qa.icopy.site"]:upward(tr)
+lite.duckduckgo.com##a[href*="qa.icopy.site"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="qa.icopy.site"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="qa.icopy.site"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="qa.icopy.site"]:upward(li)
+search.brave.com###results > div:has(a[href*="qa.icopy.site"])
+yandex.com##a[href*="qa.icopy.site"]:upward(li)
+www.bing.com##a[href*="qa.icopy.site"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="qa.icopy.site"])
+ecosia.org##.result:has(a[href*="qa.icopy.site"])
+qa.icopy.site
 google.*##.g:has(a[href*="qacode.ru"])
 duckduckgo.com##a[href*="qacode.ru"]:upward(4)
 html.duckduckgo.com##a[href*="qacode.ru"]:upward(.result)
@@ -11698,6 +11726,20 @@ www.bing.com##a[href*="recnik.si"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="recnik.si"])
 ecosia.org##.result:has(a[href*="recnik.si"])
 recnik.si
+google.*##.g:has(a[href*="reddit.fun"])
+duckduckgo.com##a[href*="reddit.fun"]:upward(4)
+html.duckduckgo.com##a[href*="reddit.fun"]:upward(.result)
+lite.duckduckgo.com##a[href*="reddit.fun"]:upward(tr)
+lite.duckduckgo.com##a[href*="reddit.fun"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="reddit.fun"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="reddit.fun"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="reddit.fun"]:upward(li)
+search.brave.com###results > div:has(a[href*="reddit.fun"])
+yandex.com##a[href*="reddit.fun"]:upward(li)
+www.bing.com##a[href*="reddit.fun"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="reddit.fun"])
+ecosia.org##.result:has(a[href*="reddit.fun"])
+reddit.fun
 google.*##.g:has(a[href*="regenbuy.news"])
 duckduckgo.com##a[href*="regenbuy.news"]:upward(4)
 html.duckduckgo.com##a[href*="regenbuy.news"]:upward(.result)
@@ -15324,6 +15366,34 @@ www.bing.com##a[href*="web-answers.ru"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="web-answers.ru"])
 ecosia.org##.result:has(a[href*="web-answers.ru"])
 web-answers.ru
+google.*##.g:has(a[href*="web-dev-qa-db-fr.com"])
+duckduckgo.com##a[href*="web-dev-qa-db-fr.com"]:upward(4)
+html.duckduckgo.com##a[href*="web-dev-qa-db-fr.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="web-dev-qa-db-fr.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="web-dev-qa-db-fr.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="web-dev-qa-db-fr.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="web-dev-qa-db-fr.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="web-dev-qa-db-fr.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="web-dev-qa-db-fr.com"])
+yandex.com##a[href*="web-dev-qa-db-fr.com"]:upward(li)
+www.bing.com##a[href*="web-dev-qa-db-fr.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="web-dev-qa-db-fr.com"])
+ecosia.org##.result:has(a[href*="web-dev-qa-db-fr.com"])
+web-dev-qa-db-fr.com
+google.*##.g:has(a[href*="web-dev-qa-db-ja.com"])
+duckduckgo.com##a[href*="web-dev-qa-db-ja.com"]:upward(4)
+html.duckduckgo.com##a[href*="web-dev-qa-db-ja.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="web-dev-qa-db-ja.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="web-dev-qa-db-ja.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="web-dev-qa-db-ja.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="web-dev-qa-db-ja.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="web-dev-qa-db-ja.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="web-dev-qa-db-ja.com"])
+yandex.com##a[href*="web-dev-qa-db-ja.com"]:upward(li)
+www.bing.com##a[href*="web-dev-qa-db-ja.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="web-dev-qa-db-ja.com"])
+ecosia.org##.result:has(a[href*="web-dev-qa-db-ja.com"])
+web-dev-qa-db-ja.com
 google.*##.g:has(a[href*="web-dev-qa-db-pt.com"])
 duckduckgo.com##a[href*="web-dev-qa-db-pt.com"]:upward(4)
 html.duckduckgo.com##a[href*="web-dev-qa-db-pt.com"]:upward(.result)
