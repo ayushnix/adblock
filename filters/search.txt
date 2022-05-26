@@ -3732,6 +3732,20 @@ www.bing.com##a[href*="ecopaper.ro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="ecopaper.ro"])
 ecosia.org##.result:has(a[href*="ecopaper.ro"])
 ecopaper.ro
+google.*##.g:has(a[href*="editcode.net"])
+duckduckgo.com##a[href*="editcode.net"]:upward(4)
+html.duckduckgo.com##a[href*="editcode.net"]:upward(.result)
+lite.duckduckgo.com##a[href*="editcode.net"]:upward(tr)
+lite.duckduckgo.com##a[href*="editcode.net"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="editcode.net"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="editcode.net"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="editcode.net"]:upward(li)
+search.brave.com###results > div:has(a[href*="editcode.net"])
+yandex.com##a[href*="editcode.net"]:upward(li)
+www.bing.com##a[href*="editcode.net"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="editcode.net"])
+ecosia.org##.result:has(a[href*="editcode.net"])
+editcode.net
 google.*##.g:has(a[href*="edition-unique.news"])
 duckduckgo.com##a[href*="edition-unique.news"]:upward(4)
 html.duckduckgo.com##a[href*="edition-unique.news"]:upward(.result)
@@ -4712,6 +4726,20 @@ www.bing.com##a[href*="freemindtherapy.ro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="freemindtherapy.ro"])
 ecosia.org##.result:has(a[href*="freemindtherapy.ro"])
 freemindtherapy.ro
+google.*##.g:has(a[href*="freesoft.dev"])
+duckduckgo.com##a[href*="freesoft.dev"]:upward(4)
+html.duckduckgo.com##a[href*="freesoft.dev"]:upward(.result)
+lite.duckduckgo.com##a[href*="freesoft.dev"]:upward(tr)
+lite.duckduckgo.com##a[href*="freesoft.dev"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="freesoft.dev"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="freesoft.dev"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="freesoft.dev"]:upward(li)
+search.brave.com###results > div:has(a[href*="freesoft.dev"])
+yandex.com##a[href*="freesoft.dev"]:upward(li)
+www.bing.com##a[href*="freesoft.dev"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="freesoft.dev"])
+ecosia.org##.result:has(a[href*="freesoft.dev"])
+freesoft.dev
 google.*##.g:has(a[href*="frenterenovador.si"])
 duckduckgo.com##a[href*="frenterenovador.si"]:upward(4)
 html.duckduckgo.com##a[href*="frenterenovador.si"]:upward(.result)
@@ -6056,6 +6084,20 @@ www.bing.com##a[href*="idealni365.si"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="idealni365.si"])
 ecosia.org##.result:has(a[href*="idealni365.si"])
 idealni365.si
+google.*##.g:has(a[href*="idqna.com"])
+duckduckgo.com##a[href*="idqna.com"]:upward(4)
+html.duckduckgo.com##a[href*="idqna.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="idqna.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="idqna.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="idqna.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="idqna.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="idqna.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="idqna.com"])
+yandex.com##a[href*="idqna.com"]:upward(li)
+www.bing.com##a[href*="idqna.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="idqna.com"])
+ecosia.org##.result:has(a[href*="idqna.com"])
+idqna.com
 google.*##.g:has(a[href*="impachetatcustil.ro"])
 duckduckgo.com##a[href*="impachetatcustil.ro"]:upward(4)
 html.duckduckgo.com##a[href*="impachetatcustil.ro"]:upward(.result)
@@ -6070,6 +6112,20 @@ www.bing.com##a[href*="impachetatcustil.ro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="impachetatcustil.ro"])
 ecosia.org##.result:has(a[href*="impachetatcustil.ro"])
 impachetatcustil.ro
+google.*##.g:has(a[href*="imtqy.com"])
+duckduckgo.com##a[href*="imtqy.com"]:upward(4)
+html.duckduckgo.com##a[href*="imtqy.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="imtqy.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="imtqy.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="imtqy.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="imtqy.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="imtqy.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="imtqy.com"])
+yandex.com##a[href*="imtqy.com"]:upward(li)
+www.bing.com##a[href*="imtqy.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="imtqy.com"])
+ecosia.org##.result:has(a[href*="imtqy.com"])
+imtqy.com
 google.*##.g:has(a[href*="inbound-marketing.si"])
 duckduckgo.com##a[href*="inbound-marketing.si"]:upward(4)
 html.duckduckgo.com##a[href*="inbound-marketing.si"]:upward(.result)
@@ -7694,6 +7750,20 @@ www.bing.com##a[href*="linksunique.news"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="linksunique.news"])
 ecosia.org##.result:has(a[href*="linksunique.news"])
 linksunique.news
+google.*##.g:has(a[href*="linuxfixes.com"])
+duckduckgo.com##a[href*="linuxfixes.com"]:upward(4)
+html.duckduckgo.com##a[href*="linuxfixes.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="linuxfixes.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="linuxfixes.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="linuxfixes.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="linuxfixes.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="linuxfixes.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="linuxfixes.com"])
+yandex.com##a[href*="linuxfixes.com"]:upward(li)
+www.bing.com##a[href*="linuxfixes.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="linuxfixes.com"])
+ecosia.org##.result:has(a[href*="linuxfixes.com"])
+linuxfixes.com
 google.*##.g:has(a[href*="liuqiufeng.com"])
 duckduckgo.com##a[href*="liuqiufeng.com"]:upward(4)
 html.duckduckgo.com##a[href*="liuqiufeng.com"]:upward(.result)
@@ -11320,6 +11390,20 @@ www.bing.com##a[href*="qa.icopy.site"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="qa.icopy.site"])
 ecosia.org##.result:has(a[href*="qa.icopy.site"])
 qa.icopy.site
+google.*##.g:has(a[href*="qa.ostack.cn"])
+duckduckgo.com##a[href*="qa.ostack.cn"]:upward(4)
+html.duckduckgo.com##a[href*="qa.ostack.cn"]:upward(.result)
+lite.duckduckgo.com##a[href*="qa.ostack.cn"]:upward(tr)
+lite.duckduckgo.com##a[href*="qa.ostack.cn"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="qa.ostack.cn"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="qa.ostack.cn"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="qa.ostack.cn"]:upward(li)
+search.brave.com###results > div:has(a[href*="qa.ostack.cn"])
+yandex.com##a[href*="qa.ostack.cn"]:upward(li)
+www.bing.com##a[href*="qa.ostack.cn"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="qa.ostack.cn"])
+ecosia.org##.result:has(a[href*="qa.ostack.cn"])
+qa.ostack.cn
 google.*##.g:has(a[href*="qa.wujigu.com"])
 duckduckgo.com##a[href*="qa.wujigu.com"]:upward(4)
 html.duckduckgo.com##a[href*="qa.wujigu.com"]:upward(.result)
@@ -16052,6 +16136,20 @@ www.bing.com##a[href*="wp-qa.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="wp-qa.com"])
 ecosia.org##.result:has(a[href*="wp-qa.com"])
 wp-qa.com
+google.*##.g:has(a[href*="wujigu.com"])
+duckduckgo.com##a[href*="wujigu.com"]:upward(4)
+html.duckduckgo.com##a[href*="wujigu.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="wujigu.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="wujigu.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="wujigu.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="wujigu.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="wujigu.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="wujigu.com"])
+yandex.com##a[href*="wujigu.com"]:upward(li)
+www.bing.com##a[href*="wujigu.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="wujigu.com"])
+ecosia.org##.result:has(a[href*="wujigu.com"])
+wujigu.com
 google.*##.g:has(a[href*="ww11.prolinguaexpert.ro"])
 duckduckgo.com##a[href*="ww11.prolinguaexpert.ro"]:upward(4)
 html.duckduckgo.com##a[href*="ww11.prolinguaexpert.ro"]:upward(.result)
