@@ -2542,6 +2542,20 @@ www.bing.com##a[href*="codersatellite.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="codersatellite.com"])
 ecosia.org##.result:has(a[href*="codersatellite.com"])
 codersatellite.com
+google.*##.g:has(a[href*="codetd.com"])
+duckduckgo.com##a[href*="codetd.com"]:upward(4)
+html.duckduckgo.com##a[href*="codetd.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="codetd.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="codetd.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="codetd.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="codetd.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="codetd.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="codetd.com"])
+yandex.com##a[href*="codetd.com"]:upward(li)
+www.bing.com##a[href*="codetd.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="codetd.com"])
+ecosia.org##.result:has(a[href*="codetd.com"])
+codetd.com
 google.*##.g:has(a[href*="codeutility.org"])
 duckduckgo.com##a[href*="codeutility.org"]:upward(4)
 html.duckduckgo.com##a[href*="codeutility.org"]:upward(.result)
@@ -6882,6 +6896,20 @@ www.bing.com##a[href*="javarepos.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="javarepos.com"])
 ecosia.org##.result:has(a[href*="javarepos.com"])
 javarepos.com
+google.*##.g:has(a[href*="javawenti.com"])
+duckduckgo.com##a[href*="javawenti.com"]:upward(4)
+html.duckduckgo.com##a[href*="javawenti.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="javawenti.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="javawenti.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="javawenti.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="javawenti.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="javawenti.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="javawenti.com"])
+yandex.com##a[href*="javawenti.com"]:upward(li)
+www.bing.com##a[href*="javawenti.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="javawenti.com"])
+ecosia.org##.result:has(a[href*="javawenti.com"])
+javawenti.com
 google.*##.g:has(a[href*="javu.ro"])
 duckduckgo.com##a[href*="javu.ro"]:upward(4)
 html.duckduckgo.com##a[href*="javu.ro"]:upward(.result)
@@ -13308,6 +13336,20 @@ www.bing.com##a[href*="soinside.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="soinside.com"])
 ecosia.org##.result:has(a[href*="soinside.com"])
 soinside.com
+google.*##.g:has(a[href*="solveforum.com"])
+duckduckgo.com##a[href*="solveforum.com"]:upward(4)
+html.duckduckgo.com##a[href*="solveforum.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="solveforum.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="solveforum.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="solveforum.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="solveforum.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="solveforum.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="solveforum.com"])
+yandex.com##a[href*="solveforum.com"]:upward(li)
+www.bing.com##a[href*="solveforum.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="solveforum.com"])
+ecosia.org##.result:has(a[href*="solveforum.com"])
+solveforum.com
 google.*##.g:has(a[href*="solveforums.msomimaktaba.com"])
 duckduckgo.com##a[href*="solveforums.msomimaktaba.com"]:upward(4)
 html.duckduckgo.com##a[href*="solveforums.msomimaktaba.com"]:upward(.result)
