@@ -106,6 +106,20 @@ www.bing.com##a[href*="5axxw.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="5axxw.com"])
 ecosia.org##.result:has(a[href*="5axxw.com"])
 5axxw.com
+google.*##.g:has(a[href*="711web.com"])
+duckduckgo.com##a[href*="711web.com"]:upward(4)
+html.duckduckgo.com##a[href*="711web.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="711web.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="711web.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="711web.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="711web.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="711web.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="711web.com"])
+yandex.com##a[href*="711web.com"]:upward(li)
+www.bing.com##a[href*="711web.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="711web.com"])
+ecosia.org##.result:has(a[href*="711web.com"])
+711web.com
 google.*##.g:has(a[href*="774.gs"])
 duckduckgo.com##a[href*="774.gs"]:upward(4)
 html.duckduckgo.com##a[href*="774.gs"]:upward(.result)
@@ -1548,6 +1562,20 @@ www.bing.com##a[href*="billshop.ro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="billshop.ro"])
 ecosia.org##.result:has(a[href*="billshop.ro"])
 billshop.ro
+google.*##.g:has(a[href*="binarydevelop.com"])
+duckduckgo.com##a[href*="binarydevelop.com"]:upward(4)
+html.duckduckgo.com##a[href*="binarydevelop.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="binarydevelop.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="binarydevelop.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="binarydevelop.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="binarydevelop.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="binarydevelop.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="binarydevelop.com"])
+yandex.com##a[href*="binarydevelop.com"]:upward(li)
+www.bing.com##a[href*="binarydevelop.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="binarydevelop.com"])
+ecosia.org##.result:has(a[href*="binarydevelop.com"])
+binarydevelop.com
 google.*##.g:has(a[href*="bitcoingrid.com"])
 duckduckgo.com##a[href*="bitcoingrid.com"]:upward(4)
 html.duckduckgo.com##a[href*="bitcoingrid.com"]:upward(.result)
@@ -3004,6 +3032,20 @@ www.bing.com##a[href*="cvzu-dolenjska.si"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="cvzu-dolenjska.si"])
 ecosia.org##.result:has(a[href*="cvzu-dolenjska.si"])
 cvzu-dolenjska.si
+google.*##.g:has(a[href*="dailydevsblog.com"])
+duckduckgo.com##a[href*="dailydevsblog.com"]:upward(4)
+html.duckduckgo.com##a[href*="dailydevsblog.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="dailydevsblog.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="dailydevsblog.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="dailydevsblog.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="dailydevsblog.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="dailydevsblog.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="dailydevsblog.com"])
+yandex.com##a[href*="dailydevsblog.com"]:upward(li)
+www.bing.com##a[href*="dailydevsblog.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="dailydevsblog.com"])
+ecosia.org##.result:has(a[href*="dailydevsblog.com"])
+dailydevsblog.com
 google.*##.g:has(a[href*="dajrentaj.si"])
 duckduckgo.com##a[href*="dajrentaj.si"]:upward(4)
 html.duckduckgo.com##a[href*="dajrentaj.si"]:upward(.result)
