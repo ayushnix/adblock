@@ -51,6 +51,7 @@ stackoverflow.com###hot-network-questions
 stackoverflow.com##.js-feed-link
 stackoverflow.com##.js-consent-banner
 stackexchange.com##.js-consent-banner
+stackoverflow.com##[data-s-popover-reference-selector="#trending-sort-info"]
 
 www.nytimes.com##div[id*=story-ad-]
 
@@ -114,6 +115,7 @@ retail.onlinesbi.com##.virtual_link
 ||retail.onlinesbi.com/sbijava/images/logoutimages/retail_0_image3.jpg$image
 ||retail.onlinesbi.com/sbijava/images/logoutimages/retail_0_image5.jpg$image
 ||retail.onlinesbi.com/sbijava/images/logoutimages/retail_0_image1.jpg$image
+www.sbicard.com##.convert-flexipay
 
 www.ft.com##.n-feedback__container
 www.ft.com##.js-instant-alert-cta.instant-alert-cta
@@ -128,3 +130,8 @@ duckduckgo.com##.header__label.showcase.header--aside__item
 duckduckgo.com##.social.header__label.header--aside__social.header--aside__item
 
 vimcasts.org##.icomoon.icon-play
+
+opensource.com###block-socialmediashareicons
+opensource.com###block-subscribetoourweeklynewsletterflyin
+opensource.com##.rate-score
+opensource.com##.vote-pending.rate-thumbs-up-btn-up
