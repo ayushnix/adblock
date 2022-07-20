@@ -126,3 +126,5 @@ duckduckgo.com##.text_promo--text
 duckduckgo.com##.js-feedback-btn-wrap
 duckduckgo.com##.header__label.showcase.header--aside__item
 duckduckgo.com##.social.header__label.header--aside__social.header--aside__item
+
+vimcasts.org##.icomoon.icon-play
