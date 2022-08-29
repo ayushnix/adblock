@@ -20,7 +20,7 @@
 ! This list may not suitable for usage for anyone else besides myself. You're
 ! welcome to use it at your own risk.
 
-github.com##span[class*="Label Label--secondary v-align-middle"]:has-text(Public)
+github.com##.mr-1.v-align-middle.Label--secondary.Label:has-text(Public)
 
 kuvera.in##.in-btn-google.btn
 kuvera.in##.in-btn-fb.btn
