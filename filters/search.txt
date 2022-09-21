@@ -4096,6 +4096,20 @@ www.bing.com##a[href*="dezbaterea.ro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="dezbaterea.ro"])
 ecosia.org##.result:has(a[href*="dezbaterea.ro"])
 dezbaterea.ro
+google.*##.g:has(a[href*="didyouthinkofit.com"])
+duckduckgo.com###links > div:has(a[href*="didyouthinkofit.com"])
+html.duckduckgo.com##a[href*="didyouthinkofit.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="didyouthinkofit.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="didyouthinkofit.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="didyouthinkofit.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="didyouthinkofit.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="didyouthinkofit.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="didyouthinkofit.com"])
+yandex.com##a[href*="didyouthinkofit.com"]:upward(li)
+www.bing.com##a[href*="didyouthinkofit.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="didyouthinkofit.com"])
+ecosia.org##.result:has(a[href*="didyouthinkofit.com"])
+didyouthinkofit.com
 google.*##.g:has(a[href*="digitrain.ru"])
 duckduckgo.com###links > div:has(a[href*="digitrain.ru"])
 html.duckduckgo.com##a[href*="digitrain.ru"]:upward(.result)
@@ -4964,6 +4978,20 @@ www.bing.com##a[href*="empires-r.us"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="empires-r.us"])
 ecosia.org##.result:has(a[href*="empires-r.us"])
 empires-r.us
+google.*##.g:has(a[href*="encodingcompiler.com"])
+duckduckgo.com###links > div:has(a[href*="encodingcompiler.com"])
+html.duckduckgo.com##a[href*="encodingcompiler.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="encodingcompiler.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="encodingcompiler.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="encodingcompiler.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="encodingcompiler.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="encodingcompiler.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="encodingcompiler.com"])
+yandex.com##a[href*="encodingcompiler.com"]:upward(li)
+www.bing.com##a[href*="encodingcompiler.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="encodingcompiler.com"])
+ecosia.org##.result:has(a[href*="encodingcompiler.com"])
+encodingcompiler.com
 google.*##.g:has(a[href*="encyclopaedia.bid"])
 duckduckgo.com###links > div:has(a[href*="encyclopaedia.bid"])
 html.duckduckgo.com##a[href*="encyclopaedia.bid"]:upward(.result)
@@ -6448,6 +6476,20 @@ www.bing.com##a[href*="githubplus.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="githubplus.com"])
 ecosia.org##.result:has(a[href*="githubplus.com"])
 githubplus.com
+google.*##.g:has(a[href*="gitmemories.com"])
+duckduckgo.com###links > div:has(a[href*="gitmemories.com"])
+html.duckduckgo.com##a[href*="gitmemories.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="gitmemories.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="gitmemories.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="gitmemories.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="gitmemories.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="gitmemories.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="gitmemories.com"])
+yandex.com##a[href*="gitmemories.com"]:upward(li)
+www.bing.com##a[href*="gitmemories.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="gitmemories.com"])
+ecosia.org##.result:has(a[href*="gitmemories.com"])
+gitmemories.com
 google.*##.g:has(a[href*="gitmemory.cn"])
 duckduckgo.com###links > div:has(a[href*="gitmemory.cn"])
 html.duckduckgo.com##a[href*="gitmemory.cn"]:upward(.result)
@@ -6966,6 +7008,20 @@ www.bing.com##a[href*="hawkeyealaska.news"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="hawkeyealaska.news"])
 ecosia.org##.result:has(a[href*="hawkeyealaska.news"])
 hawkeyealaska.news
+google.*##.g:has(a[href*="heavenlymutex.com"])
+duckduckgo.com###links > div:has(a[href*="heavenlymutex.com"])
+html.duckduckgo.com##a[href*="heavenlymutex.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="heavenlymutex.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="heavenlymutex.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="heavenlymutex.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="heavenlymutex.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="heavenlymutex.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="heavenlymutex.com"])
+yandex.com##a[href*="heavenlymutex.com"]:upward(li)
+www.bing.com##a[href*="heavenlymutex.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="heavenlymutex.com"])
+ecosia.org##.result:has(a[href*="heavenlymutex.com"])
+heavenlymutex.com
 google.*##.g:has(a[href*="hellojava.com"])
 duckduckgo.com###links > div:has(a[href*="hellojava.com"])
 html.duckduckgo.com##a[href*="hellojava.com"]:upward(.result)
@@ -13910,6 +13966,20 @@ www.bing.com##a[href*="recnik.si"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="recnik.si"])
 ecosia.org##.result:has(a[href*="recnik.si"])
 recnik.si
+google.*##.g:has(a[href*="recyclingrainbow.com"])
+duckduckgo.com###links > div:has(a[href*="recyclingrainbow.com"])
+html.duckduckgo.com##a[href*="recyclingrainbow.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="recyclingrainbow.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="recyclingrainbow.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="recyclingrainbow.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="recyclingrainbow.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="recyclingrainbow.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="recyclingrainbow.com"])
+yandex.com##a[href*="recyclingrainbow.com"]:upward(li)
+www.bing.com##a[href*="recyclingrainbow.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="recyclingrainbow.com"])
+ecosia.org##.result:has(a[href*="recyclingrainbow.com"])
+recyclingrainbow.com
 google.*##.g:has(a[href*="reddit.fun"])
 duckduckgo.com###links > div:has(a[href*="reddit.fun"])
 html.duckduckgo.com##a[href*="reddit.fun"]:upward(.result)
@@ -14050,6 +14120,20 @@ www.bing.com##a[href*="restavracija-promenada.si"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="restavracija-promenada.si"])
 ecosia.org##.result:has(a[href*="restavracija-promenada.si"])
 restavracija-promenada.si
+google.*##.g:has(a[href*="resultfor.dev"])
+duckduckgo.com###links > div:has(a[href*="resultfor.dev"])
+html.duckduckgo.com##a[href*="resultfor.dev"]:upward(.result)
+lite.duckduckgo.com##a[href*="resultfor.dev"]:upward(tr)
+lite.duckduckgo.com##a[href*="resultfor.dev"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="resultfor.dev"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="resultfor.dev"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="resultfor.dev"]:upward(li)
+search.brave.com###results > div:has(a[href*="resultfor.dev"])
+yandex.com##a[href*="resultfor.dev"]:upward(li)
+www.bing.com##a[href*="resultfor.dev"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="resultfor.dev"])
+ecosia.org##.result:has(a[href*="resultfor.dev"])
+resultfor.dev
 google.*##.g:has(a[href*="reumatologiestoicasimona.ro"])
 duckduckgo.com###links > div:has(a[href*="reumatologiestoicasimona.ro"])
 html.duckduckgo.com##a[href*="reumatologiestoicasimona.ro"]:upward(.result)
