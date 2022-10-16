@@ -316,6 +316,20 @@ www.bing.com##a[href*="accesoriisimargele.ro"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="accesoriisimargele.ro"])
 ecosia.org##.result:has(a[href*="accesoriisimargele.ro"])
 accesoriisimargele.ro
+google.*##.g:has(a[href*="addcodings.com"])
+duckduckgo.com###links > div:has(a[href*="addcodings.com"])
+html.duckduckgo.com##a[href*="addcodings.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="addcodings.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="addcodings.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="addcodings.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="addcodings.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="addcodings.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="addcodings.com"])
+yandex.com##a[href*="addcodings.com"]:upward(li)
+www.bing.com##a[href*="addcodings.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="addcodings.com"])
+ecosia.org##.result:has(a[href*="addcodings.com"])
+addcodings.com
 google.*##.g:has(a[href*="adidasisupra.ro"])
 duckduckgo.com###links > div:has(a[href*="adidasisupra.ro"])
 html.duckduckgo.com##a[href*="adidasisupra.ro"]:upward(.result)
@@ -736,6 +750,20 @@ www.bing.com##a[href*="angro-afacere.cam"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="angro-afacere.cam"])
 ecosia.org##.result:has(a[href*="angro-afacere.cam"])
 angro-afacere.cam
+google.*##.g:has(a[href*="angularfixing.com"])
+duckduckgo.com###links > div:has(a[href*="angularfixing.com"])
+html.duckduckgo.com##a[href*="angularfixing.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="angularfixing.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="angularfixing.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="angularfixing.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="angularfixing.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="angularfixing.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="angularfixing.com"])
+yandex.com##a[href*="angularfixing.com"]:upward(li)
+www.bing.com##a[href*="angularfixing.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="angularfixing.com"])
+ecosia.org##.result:has(a[href*="angularfixing.com"])
+angularfixing.com
 google.*##.g:has(a[href*="angularquestions.com"])
 duckduckgo.com###links > div:has(a[href*="angularquestions.com"])
 html.duckduckgo.com##a[href*="angularquestions.com"]:upward(.result)
@@ -1996,6 +2024,20 @@ www.bing.com##a[href*="boutique-fast.cam"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="boutique-fast.cam"])
 ecosia.org##.result:has(a[href*="boutique-fast.cam"])
 boutique-fast.cam
+google.*##.g:has(a[href*="boxhoidap.com"])
+duckduckgo.com###links > div:has(a[href*="boxhoidap.com"])
+html.duckduckgo.com##a[href*="boxhoidap.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="boxhoidap.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="boxhoidap.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="boxhoidap.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="boxhoidap.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="boxhoidap.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="boxhoidap.com"])
+yandex.com##a[href*="boxhoidap.com"]:upward(li)
+www.bing.com##a[href*="boxhoidap.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="boxhoidap.com"])
+ecosia.org##.result:has(a[href*="boxhoidap.com"])
+boxhoidap.com
 google.*##.g:has(a[href*="brandsforsalechoice.news"])
 duckduckgo.com###links > div:has(a[href*="brandsforsalechoice.news"])
 html.duckduckgo.com##a[href*="brandsforsalechoice.news"]:upward(.result)
@@ -5958,6 +6000,20 @@ www.bing.com##a[href*="fmihm.org"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="fmihm.org"])
 ecosia.org##.result:has(a[href*="fmihm.org"])
 fmihm.org
+google.*##.g:has(a[href*="folkstalk.com"])
+duckduckgo.com###links > div:has(a[href*="folkstalk.com"])
+html.duckduckgo.com##a[href*="folkstalk.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="folkstalk.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="folkstalk.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="folkstalk.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="folkstalk.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="folkstalk.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="folkstalk.com"])
+yandex.com##a[href*="folkstalk.com"]:upward(li)
+www.bing.com##a[href*="folkstalk.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="folkstalk.com"])
+ecosia.org##.result:has(a[href*="folkstalk.com"])
+folkstalk.com
 google.*##.g:has(a[href*="fond-maraton.ro"])
 duckduckgo.com###links > div:has(a[href*="fond-maraton.ro"])
 html.duckduckgo.com##a[href*="fond-maraton.ro"]:upward(.result)
@@ -6644,6 +6700,20 @@ www.bing.com##a[href*="githubplus.com"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="githubplus.com"])
 ecosia.org##.result:has(a[href*="githubplus.com"])
 githubplus.com
+google.*##.g:has(a[href*="githubrecord.com"])
+duckduckgo.com###links > div:has(a[href*="githubrecord.com"])
+html.duckduckgo.com##a[href*="githubrecord.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="githubrecord.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="githubrecord.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="githubrecord.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="githubrecord.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="githubrecord.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="githubrecord.com"])
+yandex.com##a[href*="githubrecord.com"]:upward(li)
+www.bing.com##a[href*="githubrecord.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="githubrecord.com"])
+ecosia.org##.result:has(a[href*="githubrecord.com"])
+githubrecord.com
 google.*##.g:has(a[href*="gitmemories.com"])
 duckduckgo.com###links > div:has(a[href*="gitmemories.com"])
 html.duckduckgo.com##a[href*="gitmemories.com"]:upward(.result)
@@ -10704,6 +10774,20 @@ www.bing.com##a[href*="monume.si"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="monume.si"])
 ecosia.org##.result:has(a[href*="monume.si"])
 monume.si
+google.*##.g:has(a[href*="mortgagefasr860.weebly.com"])
+duckduckgo.com###links > div:has(a[href*="mortgagefasr860.weebly.com"])
+html.duckduckgo.com##a[href*="mortgagefasr860.weebly.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="mortgagefasr860.weebly.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="mortgagefasr860.weebly.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="mortgagefasr860.weebly.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="mortgagefasr860.weebly.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="mortgagefasr860.weebly.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="mortgagefasr860.weebly.com"])
+yandex.com##a[href*="mortgagefasr860.weebly.com"]:upward(li)
+www.bing.com##a[href*="mortgagefasr860.weebly.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="mortgagefasr860.weebly.com"])
+ecosia.org##.result:has(a[href*="mortgagefasr860.weebly.com"])
+mortgagefasr860.weebly.com
 google.*##.g:has(a[href*="mtbvv.si"])
 duckduckgo.com###links > div:has(a[href*="mtbvv.si"])
 html.duckduckgo.com##a[href*="mtbvv.si"]:upward(.result)
@@ -19860,6 +19944,20 @@ www.bing.com##a[href*="zbiranjetrgovina.news"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="zbiranjetrgovina.news"])
 ecosia.org##.result:has(a[href*="zbiranjetrgovina.news"])
 zbiranjetrgovina.news
+google.*##.g:has(a[href*="zditect.com"])
+duckduckgo.com###links > div:has(a[href*="zditect.com"])
+html.duckduckgo.com##a[href*="zditect.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="zditect.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="zditect.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="zditect.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="zditect.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="zditect.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="zditect.com"])
+yandex.com##a[href*="zditect.com"]:upward(li)
+www.bing.com##a[href*="zditect.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="zditect.com"])
+ecosia.org##.result:has(a[href*="zditect.com"])
+zditect.com
 google.*##.g:has(a[href*="zenitybeauty.ro"])
 duckduckgo.com###links > div:has(a[href*="zenitybeauty.ro"])
 html.duckduckgo.com##a[href*="zenitybeauty.ro"]:upward(.result)
