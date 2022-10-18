@@ -181,6 +181,7 @@ main() {
     gen_bing "$line"
     gen_startpage "$line"
     gen_ecosia "$line"
+    gen_simplesearch "$line"
     # block the domains as well in case they manage to somehow slip through
     printf "%s\n" "$line" >> filters/search.txt
   done < "$urls"
