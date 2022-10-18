@@ -5286,6 +5286,20 @@ www.bing.com##a[href*="eredetikonnyen.news"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="eredetikonnyen.news"])
 ecosia.org##.result:has(a[href*="eredetikonnyen.news"])
 eredetikonnyen.news
+google.*##.g:has(a[href*="erg.tcta.com.au"])
+duckduckgo.com###links > div:has(a[href*="erg.tcta.com.au"])
+html.duckduckgo.com##a[href*="erg.tcta.com.au"]:upward(.result)
+lite.duckduckgo.com##a[href*="erg.tcta.com.au"]:upward(tr)
+lite.duckduckgo.com##a[href*="erg.tcta.com.au"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="erg.tcta.com.au"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="erg.tcta.com.au"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="erg.tcta.com.au"]:upward(li)
+search.brave.com###results > div:has(a[href*="erg.tcta.com.au"])
+yandex.com##a[href*="erg.tcta.com.au"]:upward(li)
+www.bing.com##a[href*="erg.tcta.com.au"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="erg.tcta.com.au"])
+ecosia.org##.result:has(a[href*="erg.tcta.com.au"])
+erg.tcta.com.au
 google.*##.g:has(a[href*="erikasmrekar.si"])
 duckduckgo.com###links > div:has(a[href*="erikasmrekar.si"])
 html.duckduckgo.com##a[href*="erikasmrekar.si"]:upward(.result)
@@ -10802,6 +10816,20 @@ www.bing.com##a[href*="mtbvv.si"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="mtbvv.si"])
 ecosia.org##.result:has(a[href*="mtbvv.si"])
 mtbvv.si
+google.*##.g:has(a[href*="mulloverthing.com"])
+duckduckgo.com###links > div:has(a[href*="mulloverthing.com"])
+html.duckduckgo.com##a[href*="mulloverthing.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="mulloverthing.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="mulloverthing.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="mulloverthing.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="mulloverthing.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="mulloverthing.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="mulloverthing.com"])
+yandex.com##a[href*="mulloverthing.com"]:upward(li)
+www.bing.com##a[href*="mulloverthing.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="mulloverthing.com"])
+ecosia.org##.result:has(a[href*="mulloverthing.com"])
+mulloverthing.com
 google.*##.g:has(a[href*="mybags.si"])
 duckduckgo.com###links > div:has(a[href*="mybags.si"])
 html.duckduckgo.com##a[href*="mybags.si"]:upward(.result)
@@ -14260,6 +14288,20 @@ www.bing.com##a[href*="questu.ru"]:upward(li)
 startpage.com##.w-gl__result:has(a[href*="questu.ru"])
 ecosia.org##.result:has(a[href*="questu.ru"])
 questu.ru
+google.*##.g:has(a[href*="quick-advisors.com"])
+duckduckgo.com###links > div:has(a[href*="quick-advisors.com"])
+html.duckduckgo.com##a[href*="quick-advisors.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="quick-advisors.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="quick-advisors.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="quick-advisors.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="quick-advisors.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="quick-advisors.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="quick-advisors.com"])
+yandex.com##a[href*="quick-advisors.com"]:upward(li)
+www.bing.com##a[href*="quick-advisors.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="quick-advisors.com"])
+ecosia.org##.result:has(a[href*="quick-advisors.com"])
+quick-advisors.com
 google.*##.g:has(a[href*="quickanswer.blog"])
 duckduckgo.com###links > div:has(a[href*="quickanswer.blog"])
 html.duckduckgo.com##a[href*="quickanswer.blog"]:upward(.result)
