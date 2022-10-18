@@ -109,6 +109,10 @@ gen_bing() {
   printf "%s\n" "www.bing.com##a[href*=\"$1\"]:upward(li)" >> filters/search.txt
 }
 
+gen_simplesearch() {
+  printf "%s\n" "simplesearch.org##.h-entry:has(a[href*=\"$1\"])" >> filters/search.txt
+}
+
 _die() {
   if [[ -n $1 ]]; then
     printf "%s\n" "$1" >&2
