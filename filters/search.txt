@@ -3653,6 +3653,21 @@ startpage.com##.w-gl__result:has(a[href*="coredump.biz"])
 ecosia.org##.result:has(a[href*="coredump.biz"])
 simplesearch.org##.h-entry:has(a[href*="coredump.biz"])
 coredump.biz
+google.*##.g:has(a[href*="cplusplusbug.info"])
+duckduckgo.com###links > div:has(a[href*="cplusplusbug.info"])
+html.duckduckgo.com##a[href*="cplusplusbug.info"]:upward(.result)
+lite.duckduckgo.com##a[href*="cplusplusbug.info"]:upward(tr)
+lite.duckduckgo.com##a[href*="cplusplusbug.info"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="cplusplusbug.info"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="cplusplusbug.info"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="cplusplusbug.info"]:upward(li)
+search.brave.com###results > div:has(a[href*="cplusplusbug.info"])
+yandex.com##a[href*="cplusplusbug.info"]:upward(li)
+www.bing.com##a[href*="cplusplusbug.info"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="cplusplusbug.info"])
+ecosia.org##.result:has(a[href*="cplusplusbug.info"])
+simplesearch.org##.h-entry:has(a[href*="cplusplusbug.info"])
+cplusplusbug.info
 google.*##.g:has(a[href*="craiovabuzz.ro"])
 duckduckgo.com###links > div:has(a[href*="craiovabuzz.ro"])
 html.duckduckgo.com##a[href*="craiovabuzz.ro"]:upward(.result)
@@ -8993,6 +9008,21 @@ startpage.com##.w-gl__result:has(a[href*="itbaoku.cn"])
 ecosia.org##.result:has(a[href*="itbaoku.cn"])
 simplesearch.org##.h-entry:has(a[href*="itbaoku.cn"])
 itbaoku.cn
+google.*##.g:has(a[href*="itcodar.com"])
+duckduckgo.com###links > div:has(a[href*="itcodar.com"])
+html.duckduckgo.com##a[href*="itcodar.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="itcodar.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="itcodar.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="itcodar.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="itcodar.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="itcodar.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="itcodar.com"])
+yandex.com##a[href*="itcodar.com"]:upward(li)
+www.bing.com##a[href*="itcodar.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="itcodar.com"])
+ecosia.org##.result:has(a[href*="itcodar.com"])
+simplesearch.org##.h-entry:has(a[href*="itcodar.com"])
+itcodar.com
 google.*##.g:has(a[href*="itdaan.com"])
 duckduckgo.com###links > div:has(a[href*="itdaan.com"])
 html.duckduckgo.com##a[href*="itdaan.com"]:upward(.result)
