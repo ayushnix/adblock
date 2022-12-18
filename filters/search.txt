@@ -15338,6 +15338,21 @@ startpage.com##.w-gl__result:has(a[href*="qi-u.com"])
 ecosia.org##.result:has(a[href*="qi-u.com"])
 simplesearch.org##.h-entry:has(a[href*="qi-u.com"])
 qi-u.com
+google.*##.g:has(a[href*="qiniu.com"])
+duckduckgo.com###links > div:has(a[href*="qiniu.com"])
+html.duckduckgo.com##a[href*="qiniu.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="qiniu.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="qiniu.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="qiniu.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="qiniu.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="qiniu.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="qiniu.com"])
+yandex.com##a[href*="qiniu.com"]:upward(li)
+www.bing.com##a[href*="qiniu.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="qiniu.com"])
+ecosia.org##.result:has(a[href*="qiniu.com"])
+simplesearch.org##.h-entry:has(a[href*="qiniu.com"])
+qiniu.com
 google.*##.g:has(a[href*="qrcall.ro"])
 duckduckgo.com###links > div:has(a[href*="qrcall.ro"])
 html.duckduckgo.com##a[href*="qrcall.ro"]:upward(.result)
@@ -20603,6 +20618,21 @@ startpage.com##.w-gl__result:has(a[href*="wiki-org.ru"])
 ecosia.org##.result:has(a[href*="wiki-org.ru"])
 simplesearch.org##.h-entry:has(a[href*="wiki-org.ru"])
 wiki-org.ru
+google.*##.g:has(a[href*="wiki.alquds.edu"])
+duckduckgo.com###links > div:has(a[href*="wiki.alquds.edu"])
+html.duckduckgo.com##a[href*="wiki.alquds.edu"]:upward(.result)
+lite.duckduckgo.com##a[href*="wiki.alquds.edu"]:upward(tr)
+lite.duckduckgo.com##a[href*="wiki.alquds.edu"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="wiki.alquds.edu"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="wiki.alquds.edu"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="wiki.alquds.edu"]:upward(li)
+search.brave.com###results > div:has(a[href*="wiki.alquds.edu"])
+yandex.com##a[href*="wiki.alquds.edu"]:upward(li)
+www.bing.com##a[href*="wiki.alquds.edu"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="wiki.alquds.edu"])
+ecosia.org##.result:has(a[href*="wiki.alquds.edu"])
+simplesearch.org##.h-entry:has(a[href*="wiki.alquds.edu"])
+wiki.alquds.edu
 google.*##.g:has(a[href*="wiki.cologne"])
 duckduckgo.com###links > div:has(a[href*="wiki.cologne"])
 html.duckduckgo.com##a[href*="wiki.cologne"]:upward(.result)
