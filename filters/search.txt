@@ -10313,6 +10313,21 @@ startpage.com##.w-gl__result:has(a[href*="kutombawewe.net"])
 ecosia.org##.result:has(a[href*="kutombawewe.net"])
 simplesearch.org##.h-entry:has(a[href*="kutombawewe.net"])
 kutombawewe.net
+google.*##.g:has(a[href*="kzen.dev"])
+duckduckgo.com###links > div:has(a[href*="kzen.dev"])
+html.duckduckgo.com##a[href*="kzen.dev"]:upward(.result)
+lite.duckduckgo.com##a[href*="kzen.dev"]:upward(tr)
+lite.duckduckgo.com##a[href*="kzen.dev"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="kzen.dev"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="kzen.dev"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="kzen.dev"]:upward(li)
+search.brave.com###results > div:has(a[href*="kzen.dev"])
+yandex.com##a[href*="kzen.dev"]:upward(li)
+www.bing.com##a[href*="kzen.dev"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="kzen.dev"])
+ecosia.org##.result:has(a[href*="kzen.dev"])
+simplesearch.org##.h-entry:has(a[href*="kzen.dev"])
+kzen.dev
 google.*##.g:has(a[href*="lambda-group.si"])
 duckduckgo.com###links > div:has(a[href*="lambda-group.si"])
 html.duckduckgo.com##a[href*="lambda-group.si"]:upward(.result)
