@@ -6803,6 +6803,21 @@ startpage.com##.w-gl__result:has(a[href*="fuscin.com"])
 ecosia.org##.result:has(a[href*="fuscin.com"])
 simplesearch.org##.h-entry:has(a[href*="fuscin.com"])
 fuscin.com
+google.*##.g:has(a[href*="gangofcoders.net"])
+duckduckgo.com###links > div:has(a[href*="gangofcoders.net"])
+html.duckduckgo.com##a[href*="gangofcoders.net"]:upward(.result)
+lite.duckduckgo.com##a[href*="gangofcoders.net"]:upward(tr)
+lite.duckduckgo.com##a[href*="gangofcoders.net"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="gangofcoders.net"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="gangofcoders.net"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="gangofcoders.net"]:upward(li)
+search.brave.com###results > div:has(a[href*="gangofcoders.net"])
+yandex.com##a[href*="gangofcoders.net"]:upward(li)
+www.bing.com##a[href*="gangofcoders.net"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="gangofcoders.net"])
+ecosia.org##.result:has(a[href*="gangofcoders.net"])
+simplesearch.org##.h-entry:has(a[href*="gangofcoders.net"])
+gangofcoders.net
 google.*##.g:has(a[href*="gasilecpohiti.si"])
 duckduckgo.com###links > div:has(a[href*="gasilecpohiti.si"])
 html.duckduckgo.com##a[href*="gasilecpohiti.si"]:upward(.result)
@@ -7778,6 +7793,21 @@ startpage.com##.w-gl__result:has(a[href*="gyar-friss.news"])
 ecosia.org##.result:has(a[href*="gyar-friss.news"])
 simplesearch.org##.h-entry:has(a[href*="gyar-friss.news"])
 gyar-friss.news
+google.*##.g:has(a[href*="hackerthink.com"])
+duckduckgo.com###links > div:has(a[href*="hackerthink.com"])
+html.duckduckgo.com##a[href*="hackerthink.com"]:upward(.result)
+lite.duckduckgo.com##a[href*="hackerthink.com"]:upward(tr)
+lite.duckduckgo.com##a[href*="hackerthink.com"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="hackerthink.com"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="hackerthink.com"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="hackerthink.com"]:upward(li)
+search.brave.com###results > div:has(a[href*="hackerthink.com"])
+yandex.com##a[href*="hackerthink.com"]:upward(li)
+www.bing.com##a[href*="hackerthink.com"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="hackerthink.com"])
+ecosia.org##.result:has(a[href*="hackerthink.com"])
+simplesearch.org##.h-entry:has(a[href*="hackerthink.com"])
+hackerthink.com
 google.*##.g:has(a[href*="happysoul.top"])
 duckduckgo.com###links > div:has(a[href*="happysoul.top"])
 html.duckduckgo.com##a[href*="happysoul.top"]:upward(.result)
@@ -15578,6 +15608,21 @@ startpage.com##.w-gl__result:has(a[href*="ramonportilla.es"])
 ecosia.org##.result:has(a[href*="ramonportilla.es"])
 simplesearch.org##.h-entry:has(a[href*="ramonportilla.es"])
 ramonportilla.es
+google.*##.g:has(a[href*="rat.dev"])
+duckduckgo.com###links > div:has(a[href*="rat.dev"])
+html.duckduckgo.com##a[href*="rat.dev"]:upward(.result)
+lite.duckduckgo.com##a[href*="rat.dev"]:upward(tr)
+lite.duckduckgo.com##a[href*="rat.dev"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="rat.dev"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="rat.dev"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="rat.dev"]:upward(li)
+search.brave.com###results > div:has(a[href*="rat.dev"])
+yandex.com##a[href*="rat.dev"]:upward(li)
+www.bing.com##a[href*="rat.dev"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="rat.dev"])
+ecosia.org##.result:has(a[href*="rat.dev"])
+simplesearch.org##.h-entry:has(a[href*="rat.dev"])
+rat.dev
 google.*##.g:has(a[href*="rateye.tistory.com"])
 duckduckgo.com###links > div:has(a[href*="rateye.tistory.com"])
 html.duckduckgo.com##a[href*="rateye.tistory.com"]:upward(.result)
