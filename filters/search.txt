@@ -353,6 +353,21 @@ startpage.com##.w-gl__result:has(a[href*="accesoriisimargele.ro"])
 ecosia.org##.result:has(a[href*="accesoriisimargele.ro"])
 simplesearch.org##.h-entry:has(a[href*="accesoriisimargele.ro"])
 accesoriisimargele.ro
+google.*##.g:has(a[href*="accordeonmuseum.nl"])
+duckduckgo.com###links > div:has(a[href*="accordeonmuseum.nl"])
+html.duckduckgo.com##a[href*="accordeonmuseum.nl"]:upward(.result)
+lite.duckduckgo.com##a[href*="accordeonmuseum.nl"]:upward(tr)
+lite.duckduckgo.com##a[href*="accordeonmuseum.nl"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="accordeonmuseum.nl"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="accordeonmuseum.nl"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="accordeonmuseum.nl"]:upward(li)
+search.brave.com###results > div:has(a[href*="accordeonmuseum.nl"])
+yandex.com##a[href*="accordeonmuseum.nl"]:upward(li)
+www.bing.com##a[href*="accordeonmuseum.nl"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="accordeonmuseum.nl"])
+ecosia.org##.result:has(a[href*="accordeonmuseum.nl"])
+simplesearch.org##.h-entry:has(a[href*="accordeonmuseum.nl"])
+accordeonmuseum.nl
 google.*##.g:has(a[href*="addcodings.com"])
 duckduckgo.com###links > div:has(a[href*="addcodings.com"])
 html.duckduckgo.com##a[href*="addcodings.com"]:upward(.result)
@@ -3248,6 +3263,21 @@ startpage.com##.w-gl__result:has(a[href*="codejzy.com"])
 ecosia.org##.result:has(a[href*="codejzy.com"])
 simplesearch.org##.h-entry:has(a[href*="codejzy.com"])
 codejzy.com
+google.*##.g:has(a[href*="codemonkey.link"])
+duckduckgo.com###links > div:has(a[href*="codemonkey.link"])
+html.duckduckgo.com##a[href*="codemonkey.link"]:upward(.result)
+lite.duckduckgo.com##a[href*="codemonkey.link"]:upward(tr)
+lite.duckduckgo.com##a[href*="codemonkey.link"]:upward(tr)+tr
+lite.duckduckgo.com##a[href*="codemonkey.link"]:upward(tr)+tr+tr
+lite.duckduckgo.com##a[href*="codemonkey.link"]:upward(tr)+tr+tr+tr
+millionshort.com##a[href*="codemonkey.link"]:upward(li)
+search.brave.com###results > div:has(a[href*="codemonkey.link"])
+yandex.com##a[href*="codemonkey.link"]:upward(li)
+www.bing.com##a[href*="codemonkey.link"]:upward(li)
+startpage.com##.w-gl__result:has(a[href*="codemonkey.link"])
+ecosia.org##.result:has(a[href*="codemonkey.link"])
+simplesearch.org##.h-entry:has(a[href*="codemonkey.link"])
+codemonkey.link
 google.*##.g:has(a[href*="codengineering.ru"])
 duckduckgo.com###links > div:has(a[href*="codengineering.ru"])
 html.duckduckgo.com##a[href*="codengineering.ru"]:upward(.result)
